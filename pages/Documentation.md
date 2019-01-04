@@ -1,5 +1,5 @@
 ---
-permalink: /products/
-title: "Products"
+permalink: /documentation/
+title: "Documentation"
 layout: single
 ---
