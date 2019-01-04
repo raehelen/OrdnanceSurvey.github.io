@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Ordnance Survey"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ordnance Survey (OS) is the national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation. We believe easy-to-access data is a catalyst for fresh thinking. We’re supporting communities to use our data, accelerating new technologies and businesses, and enabling the Internet of ThingsSince April 2010, OS OpenData has provided free and unrestricted access to a large range of mapping - for anyone to use, for any purpose. It underpins a range of applications, while promoting government transparency & accountability and encouraging greater use of geographic information."
+  bio              : "Ordnance Survey (OS) is the national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation. We believe easy-to-access data is a catalyst for fresh thinking. We’re supporting communities to use our data, accelerating new technologies and businesses, and enabling the Internet of Things."
   location         : "Southampton"
   email            :
   links:
