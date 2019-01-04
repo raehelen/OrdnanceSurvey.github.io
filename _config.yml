@@ -128,6 +128,15 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+#Side Bar
+sidebar:
+  - title: "Ordnance Survey"
+    image: "assets/images/OS logo prime CMYK_300dpi.jpg"
+    image_alt: "OS image"
+    text: "Some text here."
+  #- title: "Another Title"
+    #text: "More text here."
+
 # Site Footer
 footer:
   links:
