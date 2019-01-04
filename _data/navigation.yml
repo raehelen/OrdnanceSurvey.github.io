@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Products"
+    url: https://raehelen.github.io/test-page/products/
+  - title: "Stylesheets"
+    url: https://raehelen.github.io/test-page/stylesheets/
+  - title: "Documentation"
+    url: https://raehelen.github.io/test-page/documentation/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
