@@ -141,7 +141,6 @@
   display: table-cell;
   vertical-align: top;
   margin-top: 2em;
-  max-width: 256px;
   padding-left: 15px;
   padding-right: 15px;
   line-height: 1;
@@ -173,7 +172,8 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin-right: 1em;
+   
 
   @include breakpoint($large) {
     margin-top: 10px;
