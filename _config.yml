@@ -100,56 +100,37 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
-# Site Author
+  
+ # Site Author
 author:
   name             : "Ordnance Survey"
+  avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ordnance Survey (OS) is THE national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation. We believe easy-to-access data is a catalyst for fresh thinking. We’re supporting communities to use our data, accelerating new technologies and businesses, and enabling the Internet of Things."
   location         : "Southampton"
   email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.ordnancesurvey.co.uk/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/OrdnanceSurvey"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/OrdnanceSurvey"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
-
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/OrdnanceSurvey"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+  uri              : "https://www.ordnancesurvey.co.uk/"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "OrdnanceSurvey"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : &twitter "OrdnanceSurvey"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
 
 
 # Reading Files
