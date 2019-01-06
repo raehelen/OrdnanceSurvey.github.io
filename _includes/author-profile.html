@@ -3,15 +3,10 @@
 
 <div itemscope itemtype="https://schema.org/Person">
 
-  {% if author.avatar %}
     <div class="author__avatar">
-      {% if author.avatar contains "://" %}
-      	<img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
-      {% else %}
-      	<img src="{{ author.avatar | absolute_url }}" alt="{{ author.name }}"style="width:1300px;height:300px">
-      {% endif %}
+      	<img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image" style="width:1300px;height:300px">
     </div>
-  {% endif %}
+
 
 
   <div class="author__content">
