@@ -5,10 +5,7 @@
 
   {% if author.avatar %}
     <div class="author__avatar">
-      {% if author.avatar contains "://" %}
-        {% assign author_src = author.avatar %}
-      {% else %}
-        {% assign author_src = author.avatar | relative_url %}
+       <img src="/assets/images/OS logo prime CMYK_300dpi.jpg" alt="{{ author.name }}" itemprop="image">
       {% endif %}
 
       {% if author.home %}
