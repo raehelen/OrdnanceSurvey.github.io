@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Ordnance Survey"
   avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ordnance Survey (OS) is THE national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation. We believe easy-to-access data is a catalyst for fresh thinking. We’re supporting communities to use our data, accelerating new technologies and businesses, and enabling the Internet of Things."
+  bio              : "Ordnance Survey (OS) is the national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation. We believe easy-to-access data is a catalyst for fresh thinking."
   location         : "Southampton"
   email            :
   uri              : "https://www.ordnancesurvey.co.uk/"
@@ -116,7 +116,7 @@ author:
   facebook         :
   foursquare       :
   github           : "OrdnanceSurvey"
-  google_plus      :
+  geogithub        : "Geovation"
   keybase          :
   instagram        :
   lastfm           :
