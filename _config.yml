@@ -132,12 +132,10 @@ author:
   xing             :
   youtube          :
 
-.author{
-  .avatar{
+avatar {
       width: 1024px;
       height: 256px;
       align: centre;
-  }
 }
 
 # Reading Files
