@@ -12,6 +12,11 @@
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
+    
+    <div class="author__avatar">
+        <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" itemprop="image" align="middle">
+    </div>
+    
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
