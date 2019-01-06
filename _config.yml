@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Ordnance Survey"
   avatar           : "/assets/images/OS logo prime CMYK_300dpi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 
-  bio              : "Ordnance Survey (OS) is the national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation. We believe easy-to-access data is a catalyst for fresh thinking."
+  bio              : "Ordnance Survey (OS) is the national mapping agency for Great Britain, and a world-leading geospatial data and technology organisation."
   location         : "Southampton"
   email            :
   uri              : "https://www.ordnancesurvey.co.uk/"
