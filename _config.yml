@@ -132,6 +132,13 @@ author:
   xing             :
   youtube          :
 
+.author{
+  .avatar{
+      width: 1024px;
+      height: 256px;
+      align: centre;
+  }
+}
 
 # Reading Files
 include:
