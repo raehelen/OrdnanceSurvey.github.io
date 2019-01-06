@@ -120,6 +120,7 @@
   width: 36px;
   height: 36px;
   margin-top: 3em;
+  margin-bottom: 2em;
 
   @include breakpoint($large) {
     display: block;
