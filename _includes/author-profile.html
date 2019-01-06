@@ -3,11 +3,11 @@
 
 <div itemscope itemtype="https://schema.org/Person">
 
-     {% if author.avatar %}
+     
     <div class="author__avatar">
-        <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image" align="middle">
+        <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" itemprop="image" align="middle">
     </div>
-  {% endif %}
+
 
 
   <div class="author__content">
