@@ -120,7 +120,6 @@
   width: 36px;
   height: 36px;
   margin-top: 3em;
-  margin-bottom: 2em;
 
   @include breakpoint($large) {
     display: block;
@@ -141,8 +140,9 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
+  margin-top: 2em;
   padding-left: 15px;
-  padding-right: 35px;
+  padding-right: 40px;
   line-height: 1;
 
   @include breakpoint($large) {
