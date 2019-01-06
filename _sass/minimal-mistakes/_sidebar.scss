@@ -141,8 +141,9 @@
   display: table-cell;
   vertical-align: top;
   margin-top: 2em;
+  margin-right: 1em;
   padding-left: 15px;
-  padding-right: 200px;
+  padding-right: 15px;
   line-height: 1;
 
   @include breakpoint($large) {
