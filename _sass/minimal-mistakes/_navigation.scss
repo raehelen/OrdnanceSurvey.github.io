@@ -178,6 +178,11 @@
   align-items: center;
   min-height: $nav-height;
   background: $background-color;
+   
+   
+ .greedy-nav .visible-links a:before {
+  background-color: red;
+ }
 
   a {
     display: block;
