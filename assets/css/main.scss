@@ -10,3 +10,14 @@
 .greedy-nav .visible-links a:before {
   background-color: #453c90;
 }
+
+&__toggle {
+    -ms-flex-item-align: center;
+    align-self: center;
+    height: $nav-toggle-height;
+    border: 0;
+    outline: none;
+    color: #453c90
+    background-color: transparent;
+    cursor: pointer;
+  }
