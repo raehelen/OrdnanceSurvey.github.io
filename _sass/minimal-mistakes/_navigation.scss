@@ -270,7 +270,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: #D40058;
+        color: $masthead-link-color-hover;
         background: $navicon-link-color-hover;
       }
     }
