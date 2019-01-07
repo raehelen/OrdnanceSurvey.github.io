@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: /
   - title: "Products"
     url: https://raehelen.github.io/test-page/products/
   - title: "Stylesheets"
