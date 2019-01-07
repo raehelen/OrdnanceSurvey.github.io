@@ -1,5 +1,5 @@
 ---
 permalink: /documents/
-title: "Documents
+title: "Documents"
 layout: single
 ---
