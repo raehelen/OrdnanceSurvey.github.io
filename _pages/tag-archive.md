@@ -1,6 +1,6 @@
 ---
 title: "Repositories by Tag"
 permalink: /tags/
-layout: archive
+layout: tags
 author_profile: true
 ---
