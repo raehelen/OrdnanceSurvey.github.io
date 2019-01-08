@@ -133,18 +133,6 @@ author:
   youtube          :
 
 
-#Tags
-tag_archive:
-  type: jekyll-archives
-  path: /tags/
-#https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-     - tags
-  layouts:
-    tag: archive-taxonomy
-
-
 # Reading Files
 include:
   - .htaccess
@@ -209,6 +197,7 @@ sass:
 
 
 # Outputting
+permalink: /:categories/:title/
 permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
