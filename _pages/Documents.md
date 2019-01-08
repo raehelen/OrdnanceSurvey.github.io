@@ -4,7 +4,9 @@ title: "Technical Guidance "
 layout: single
 ---
 
-Open data products support, technical specification and guidance 
+Open data products support, technical specification and guidance.
+
+These links will direct you to our support pages, where you will find the relevant documents, links and FAQ's for each OpenData product.
 
 ## Getting Started Guides 
 
