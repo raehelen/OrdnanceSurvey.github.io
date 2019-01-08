@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Products"
 permalink: /testsplash/
 
 feature_row:
@@ -28,4 +29,4 @@ feature_row:
 
 {% include feature_row %}
 
-Products
+
