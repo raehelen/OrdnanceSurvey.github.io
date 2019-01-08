@@ -1,7 +1,6 @@
 ---
-permalink: /products/
-title: "Products"
-layout: archive
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
 author_profile: true
 ---
-
