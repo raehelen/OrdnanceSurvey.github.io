@@ -133,6 +133,18 @@ author:
   youtube          :
 
 
+#Tags
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+#https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+     - tags
+  layouts:
+    tag: archive-taxonomy
+
+
 # Reading Files
 include:
   - .htaccess
