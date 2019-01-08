@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /testsplash/
 
 feature_row:
