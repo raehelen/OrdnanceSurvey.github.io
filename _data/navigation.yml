@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /
   - title: "Products"
-    url: https://raehelen.github.io/test-page/products/
+    url: https://raehelen.github.io/test-page/tags/
   - title: "Stylesheets"
     url: https://raehelen.github.io/test-page/stylesheets/
   - title: "Documentation"
