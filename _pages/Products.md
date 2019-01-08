@@ -1,5 +1,6 @@
 ---
 permalink: /products/
 title: "Products"
-layout: single
+layout: tags
+author_profile: true
 ---
