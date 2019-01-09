@@ -9,7 +9,7 @@ Our aim is to provide mapping that informs, guides and inspires. Our vision is t
 
 In fifteen short years, we’ve changed from a centuries-old venerable mapping company into a big data powerhouse. Our location information is weaving itself into the very fabric of our everyday lives, right across Great Britain.
 
-##GitHub Pages aims
+## GitHub Pages aims
 
 •	Ability to share learning and improve engagement between our technical experts and users
 •	Share learning within geospatial community
