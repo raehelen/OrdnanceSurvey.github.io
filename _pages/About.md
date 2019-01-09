@@ -5,14 +5,20 @@ layout: single
 author-profile: true
 ---
 
+Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain
+
+In fifteen short years, we’ve changed from a centuries-old venerable mapping company into a big data powerhouse. Our location information is weaving itself into the very fabric of our everyday lives, right across Great Britain.
+
+**GitHub Pages aims
+
+•	Ability to share learning and improve engagement between our technical experts and users
+•	Share learning within geospatial community
+•	Work collaboratively with our users on improving products and product utilisation
+•	Grow and add value to the developers community
 
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+For more information about Ordnance Survey please contact us using the social links provided to the left.
 
 <br>
 <br>
-<br>
-<br>
+
