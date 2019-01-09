@@ -1,0 +1,10 @@
+---
+title: "OS Maps API"
+layout: single
+date: 2016-11-18
+tags: ["API","JavaScript", "style"]
+---
+
+##[OS Maps API](https://github.com/OrdnanceSurvey/OS-Maps-API)
+
+This repo contains working examples of how to use the OS Maps API, a RESTful API based on the OS datasets. The API offers access to five styles of map: Leisure, Outdoor, Road, Light and Night. 
