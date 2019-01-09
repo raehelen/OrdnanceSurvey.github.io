@@ -1,0 +1,11 @@
+---
+title: "OS Search"
+layout: single
+date: 2016-11-18
+tags: ["Search","Elements","JavaScript"]
+---
+
+
+##[OS Search](https://github.com/OrdnanceSurvey/os-search)
+
+AngularJS implementation of a flexible search box by OS Elements
