@@ -4,8 +4,9 @@ title: "Stylesheets"
 layout: single
 ---
 
-***A cartographic style is the visual representation of geographic data.They can take many forms depending on the data, the software and the needs or preferences of the user.
-****Further information about our free cartographic stylesheets and user guide can be found on our website [here](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+## A cartographic style is the visual representation of geographic data.They can take many forms depending on the data, the software and the needs or preferences of the user.
+
+### Further information about our free cartographic stylesheets and user guide can be found on our website [here](https://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
 
 ## OS MasterMap 
 
