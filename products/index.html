@@ -1,6 +1,7 @@
-<select class="ui search dropdown" id="search-select">
-  <option value="">Product</option>
-  <option value="OSMM">OS MasterMap</option>
-  <option value="OSGS">OS Greenspace</option>
-  <option value="OSTOPO">OS Topography</option>
-</select>
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Products</button>
+  <div id="myDropdown" class="dropdown-content">
+    <input type="text" placeholder="Search Product" id="myInput" onkeyup="filterFunction()">
+    <a href="https://raehelen.github.io/test-page/osmm/">OS MasterMap</a>
+  </div>
+</div>
