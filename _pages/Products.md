@@ -19,5 +19,5 @@ author_profile: true
   <option>OS Topography</option>
 </select>
 
-$('.selectpicker').selectpicker();
+
 
