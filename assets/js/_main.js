@@ -25,7 +25,7 @@ $(document).ready(function() {
   $("#main").fitVids();
    
   //Product Search Dropdown
-  $('#select').dropdown();
+  $('#search-select').dropdown();
 
   // Sticky sidebar
   var stickySideBar = function() {
