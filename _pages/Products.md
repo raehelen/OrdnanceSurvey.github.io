@@ -5,10 +5,19 @@ layout: single
 author_profile: true
 ---
 
-<div class="dropdown">
-  <button onclick="searchFunction()" class="dropbtn">Products</button>
-  <div id="myDropdown" class="dropdown-content">
-    <input type="text" placeholder="Search Product" id="myInput" onkeyup="filterFunction()">
-    <a href="https://raehelen.github.io/test-page/osmm/">OS MasterMap</a>
-  </div>
-</div>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/css/bootstrap-select.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js"></script>
+
+
+<select class="selectpicker">
+  <option>OS MasterMap</option>
+  <option>OS Greenspace</option>
+  <option>OS Topography</option>
+</select>
+
+$('.selectpicker').selectpicker();
+
