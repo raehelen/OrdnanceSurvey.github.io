@@ -23,9 +23,6 @@ $(document).ready(function() {
 
   // FitVids init
   $("#main").fitVids();
-   
-  //Product Search Dropdown
-  $('#search-select').dropdown();
 
   // Sticky sidebar
   var stickySideBar = function() {
