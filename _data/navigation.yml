@@ -4,10 +4,6 @@ main:
     url: https://raehelen.github.io/test-page/about/
   - title: "Products"
     url: https://raehelen.github.io/test-page/products/
-  - title: "Stylesheets"
-    url: https://raehelen.github.io/test-page/stylesheets/
-  - title: "Technical Guidance"
-    url: https://raehelen.github.io/test-page/documents/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
