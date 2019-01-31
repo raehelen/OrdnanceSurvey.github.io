@@ -4,6 +4,12 @@ layout: single
 permalink: /products/
 author_profile: true
 
+<select class="selectpicker">
+  <option>OS MasterMap</option>
+  <option>OS Greenspace</option>
+  <option>OS Topography</option>
+</select>
+
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
