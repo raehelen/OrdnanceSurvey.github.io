@@ -2,7 +2,7 @@
 title: "Splash Page"
 layout: splash
 permalink: /products/
-date: 2016-03-23T11:48:41-04:00
+author_profile: true
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
