@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /splash-page/
+permalink: /products/
 date: 2016-03-23T11:48:41-04:00
 
 feature_row:
