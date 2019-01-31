@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: https://raehelen.github.io/test-page/about/
   - title: "Products"
     url: https://raehelen.github.io/test-page/products/
   # - title: "Sample Collections"
