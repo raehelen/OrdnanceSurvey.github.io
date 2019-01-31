@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 layout: single
 author-profile: true
