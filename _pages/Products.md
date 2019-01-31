@@ -3,15 +3,6 @@ title: "Products"
 layout: single
 permalink: /products/
 author_profile: true
----
-
-
-<select class="selectpicker">
-  <option>OS MasterMap</option>
-  <option>OS Greenspace</option>
-  <option>OS Topography</option>
-</select>
-
 
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -37,7 +28,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
+---
 
 
 {% include feature_row id="feature_row" type="left" %}
