@@ -31,7 +31,7 @@ feature_row3:
 ---
 
 <select class="selectpicker">
-  <option>OS MasterMap</option>
+  <option value="feature_row3">OS MasterMap</option>
   <option>OS Greenspace</option>
   <option>OS Topography</option>
 </select>
