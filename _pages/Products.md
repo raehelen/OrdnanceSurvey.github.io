@@ -30,6 +30,11 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
+<select class="selectpicker">
+  <option>OS MasterMap</option>
+  <option>OS Greenspace</option>
+  <option>OS Topography</option>
+</select>
 
 {% include feature_row id="feature_row" type="left" %}
 
