@@ -1,6 +1,6 @@
 ---
-title: "Splash Page"
-layout: splash
+title: "Products"
+layout: single
 permalink: /products/
 author_profile: true
 
