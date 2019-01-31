@@ -28,6 +28,30 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 <select class="selectpicker">
@@ -37,9 +61,10 @@ feature_row3:
 </select>
 
 {% include feature_row id="feature_row" type="left" %}
-
+{% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
-
 {% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row6" type="left" %}
 
 
