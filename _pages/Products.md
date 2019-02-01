@@ -54,7 +54,7 @@ feature_row6:
     btn_class: "btn--primary"
 ---
 
-<select class="selectpicker" data-size="2">
+<select class="selectpicker" data-size="6">
   <option value="feature_row3">OS MasterMap</option>
   <option>OS Greenspace</option>
   <option>OS Topography</option>
