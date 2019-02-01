@@ -57,7 +57,7 @@
       }
 
       &:hover {
-        @include yiq-contrasted(mix(#D40058, $color, 60%));
+        @include yiq-contrasted(mix(#D40058, $color, 50%));
       }
     }
   }
