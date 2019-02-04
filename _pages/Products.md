@@ -60,12 +60,20 @@ feature_row6:
     btn_class: "btn--primary"
 ---
  
-<ul class="dropdown-menu" data-show="hover">
-  <li><a href="#">Products</a></li>
-  <li><a href="#">Download</a></li>
-  <li><a href="#">Support</a></li>
-  <li><a href="#">Buy Now</a></li>
-</ul>
+  <nav class="horizontal-menu">
+       <ul>
+           <li>
+               <a class="dropdown-toggle" href="#">Products</a>
+                  <ul class="dropdown-menu" data-role="dropdown" style="display: none;">
+                      <li><a href="#">Windows 8</a></li>
+                      <li><a href="#">Skype</a></li>
+                      <li><a href="#">Internet Explorer</a></li>
+                      <li><a href="#">Office</a></li>
+                  </ul>
+            </li>
+       </ul>
+  </nav>
+               
  
 
 {% include feature_row id="feature_row" type="left" %}
