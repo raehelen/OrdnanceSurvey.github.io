@@ -30,7 +30,9 @@ $(document).ready(function() {
    
   //Products Search
    
-  $('.selectpicker').selectpicker();
+  $('.selectpicker').selectpicker() {
+      width: 'auto'  
+  };
 
   // Sticky sidebar
   var stickySideBar = function() {
