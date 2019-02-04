@@ -59,22 +59,22 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
- 
-  <nav class="horizontal-menu">
-       <ul>
-           <li>
-               <a class="dropdown-toggle" href="#">Products</a>
-                  <ul class="dropdown-menu" data-show="hover" data-role="dropdown" style="display: none;">
-                      <li><a href="#">Windows 8</a></li>
-                      <li><a href="#">Skype</a></li>
-                      <li><a href="#">Internet Explorer</a></li>
-                      <li><a href="#">Office</a></li>
-                  </ul>
-            </li>
-       </ul>
-  </nav>
-               
- 
+
+<dl class="dropdown">
+		<dt><a><span>Dropdown</span></a></dt>
+			<dd>
+				<ul>
+					<li><a>Brazil</a></li>
+					<li><a>France</a></li>
+					<li><a>Germany</a></li>
+					<li><a>India</a></li>
+					<li><a>Japan</a></li>
+					<li><a>Serbia</a></li>
+					<li><a>United Kingdom</a></li>
+					<li><a>United States</a></li>
+				</ul>
+			</dd>
+	</dl>
 
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
