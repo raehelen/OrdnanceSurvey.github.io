@@ -5,7 +5,7 @@ permalink: /products/
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/OSMM_Topography_Layer.jpg
     alt: "Topography Image"
     title: "OS MasterMap Topography"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -21,7 +21,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/OSMM_Greenspace.jpg
     alt: "Greenspace Image"
     title: "OS Open Greenspace"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
