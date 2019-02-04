@@ -60,7 +60,6 @@ feature_row6:
     btn_class: "btn--primary"
 ---
  
-{% example html %}
 <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Dropdown button
@@ -71,10 +70,7 @@ feature_row6:
     <a class="dropdown-item" href="#">Something else here</a>
   </div>
 </div>
-{% endexample %}
-  </div>
-</div>
-
+ 
 
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
