@@ -2,9 +2,6 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-<!-- Latest compiled and minified Bootstrap Javascript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js"></script>
-
 $(document).ready(function() {
   // Sticky footer
   var bumpIt = function() {
