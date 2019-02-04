@@ -29,13 +29,13 @@ $(document).ready(function() {
    
   $('.selectpicker').selectpicker();
    
-$(document).ready(function () {
-    $('#dropDown').change( function () {
-        var targetPosition = $($(this).val()).offset().top;
-        $('html,body').animate({ scrollTop: targetPosition}, 'slow');
-    });
-});
- 
+var dropDownValue = document.getElementById("dropDown");
+
+dropDownValue.onchange = function() {
+  if (this.selectedIndex !== 0) {
+    window.location.href = this.value;
+  }
+};
 
   // Sticky sidebar
   var stickySideBar = function() {
