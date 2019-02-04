@@ -59,12 +59,19 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css" rel="stylesheet" />
 
+<div class="container text-center">
+  
 <select id="dropDown" data-width="100%">
   <option value="fr_1">OS MasterMap</option>
   <option value="fr_3">OS Greenspace</option>
   <option value="fr_5">OS Topography</option>
 </select>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
 
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
