@@ -27,15 +27,14 @@ $(document).ready(function() {
    
   //Products Search
    
-  $('.selectpicker').selectpicker() {
-      width: 'auto'  
-  };
+  $('.selectpicker').selectpicker();
    
-  $('#dropDown').change( function () {
-     var targetPosition = $($(this).val()).offset().top;
-  $('html,body').animate({ scrollTop: targetPosition}, 'slow');
- 
-  });
+$(document).ready(function () {
+    $('#dropDown').change( function () {
+        var targetPosition = $($(this).val()).offset().top;
+        $('html,body').animate({ scrollTop: targetPosition}, 'slow');
+    });
+});
  
 
   // Sticky sidebar
