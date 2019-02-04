@@ -34,12 +34,12 @@ $(document).ready(function() {
       width: 'auto'  
   };
    
-  $(document).ready(function () {
-     $('#dropDown').change( function () {
-         var targetPosition = $($(this).val()).offset().top;
-     $('html,body').animate({ scrollTop: targetPosition}, 'slow');
-     });
+  $('#dropDown').change( function () {
+     var targetPosition = $($(this).val()).offset().top;
+  $('html,body').animate({ scrollTop: targetPosition}, 'slow');
+ 
   });
+ 
 
   // Sticky sidebar
   var stickySideBar = function() {
