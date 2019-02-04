@@ -60,22 +60,19 @@ feature_row6:
     btn_class: "btn--primary"
 ---
 
-<dl class="dropdown">
-		<dt><a><span>Dropdown</span></a></dt>
-			<dd>
-				<ul>
-					<li><a>Brazil</a></li>
-					<li><a>France</a></li>
-					<li><a>Germany</a></li>
-					<li><a>India</a></li>
-					<li><a>Japan</a></li>
-					<li><a>Serbia</a></li>
-					<li><a>United Kingdom</a></li>
-					<li><a>United States</a></li>
-				</ul>
-			</dd>
-	</dl>
-
+<select>
+		<option value="Dropdown">Dropdown</option>
+		<option value="Brazil">Brazil</option>
+		<option value="France">France</option>
+		<option value="Germany">Germany</option>
+	  <option value="India">India</option>
+	  <option value="Japan">Japan</option>
+	  <option value="Serbia">Serbia</option>
+	  <option value="UnitedKingdom">United Kingdom</option>
+	  <option value="UnitedStates">United States</option>
+	</select>
+	
+	
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
