@@ -59,12 +59,21 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-  
-<select name="dropDown" id="dropDown" data-width="50%">
-  <option value="#https://github.com/raehelen/test-page">OS MasterMap</option>
-  <option value="#fr_3">OS Greenspace</option>
-  <option value="#fr_5">OS Topography</option>
-</select>
+ 
+ <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+    <a href="#about">About</a>
+    <a href="#base">Base</a>
+    <a href="#blog">Blog</a>
+    <a href="#contact">Contact</a>
+    <a href="#custom">Custom</a>
+    <a href="#support">Support</a>
+    <a href="#tools">Tools</a>
+  </div>
+</div>
+
 
 {% include feature_row id="feature_row" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
