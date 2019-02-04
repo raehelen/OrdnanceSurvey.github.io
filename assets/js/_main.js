@@ -33,6 +33,13 @@ $(document).ready(function() {
   $('.selectpicker').selectpicker() {
       width: 'auto'  
   };
+   
+  $(document).ready(function () {
+     $('#select-anchor').change( function () {
+         var targetPosition = $($(this).val()).offset().top;
+     $('html,body').animate({ scrollTop: targetPosition}, 'slow');
+     });
+  });
 
   // Sticky sidebar
   var stickySideBar = function() {
