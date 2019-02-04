@@ -6,7 +6,7 @@ author_profile: true
 
 feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
-    id:fr_1
+    id: "fr_1"
     alt: "Topography Image"
     title: "OS MasterMap Topography"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -15,7 +15,7 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    id:fr_2
+    id: "fr_2"
     alt: "Zoomstack Image"
     title: "OS Open Zoomstack"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -24,7 +24,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/OSMM_Greenspace.jpg
-    id:fr_3
+    id: "fr_3"
     alt: "Greenspace Image"
     title: "OS Open Greenspace"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
@@ -33,7 +33,7 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    id:fr_4
+    id: "fr_4"
     alt: "Places Image"
     title: "OS Open Places"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
@@ -42,7 +42,7 @@ feature_row4:
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    id:fr_5
+    id: "fr_5"
     alt: "VectorMap Image"
     title: "OS VectorMap Local"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
@@ -51,7 +51,7 @@ feature_row5:
     btn_class: "btn--primary"
 feature_row6:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    id:fr_6
+    id: "fr_6"
     alt: "Highways Image"
     title: "OS MasterMap Highways Network"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
