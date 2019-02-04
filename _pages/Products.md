@@ -60,7 +60,7 @@ feature_row6:
     btn_class: "btn--primary"
 ---
   
-<select id="dropDown" data-width="50%">
+<select name="dropDown" id="dropDown" data-width="50%">
   <option value="#fr_1">OS MasterMap</option>
   <option value="#fr_3">OS Greenspace</option>
   <option value="#fr_5">OS Topography</option>
