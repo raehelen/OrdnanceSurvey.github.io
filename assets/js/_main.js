@@ -106,8 +106,6 @@ $(document).ready(function() {
   });
 });
 
-  //Products Search
-$('.dropdown-toggle').dropdown() 
 
    
    
