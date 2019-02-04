@@ -60,10 +60,6 @@ feature_row6:
     btn_class: "btn--primary"
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/css/bootstrap-select.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.1/js/bootstrap-select.min.js"></script>
-
-
 <select class="selectpicker" id="dropDown">
   <option value="fr_1">OS MasterMap</option>
   <option value="fr_3">OS Greenspace</option>
