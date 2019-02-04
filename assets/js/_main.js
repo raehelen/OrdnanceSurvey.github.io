@@ -25,18 +25,6 @@ $(document).ready(function() {
   $("#main").fitVids();
    
    
-  //Products Search
-   
-  $('.selectpicker').selectpicker();
-   
-var dropDownValue = document.getElementById("dropDown");
-
-dropDownValue.onchange = function() {
-  if (this.selectedIndex !== 0) {
-    window.location.href = this.value;
-  }
-};
-
   // Sticky sidebar
   var stickySideBar = function() {
     var show =
@@ -118,5 +106,20 @@ dropDownValue.onchange = function() {
   });
 });
 
+  //Products Search
+   
+  $('.selectpicker').selectpicker();
+   
+var dropDownValue = document.getElementById("dropDown");
+
+dropDownValue.onchange = function()
+{
+if(this.selectedIndex !== 0)
+{
+    window.location.hash = this.value;
+}
+};
+   
+   
 
 
