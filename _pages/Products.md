@@ -64,7 +64,7 @@ feature_row6:
        <ul>
            <li>
                <a class="dropdown-toggle" href="#">Products</a>
-                  <ul class="dropdown-menu" data-role="dropdown" style="display: none;">
+                  <ul class="dropdown-menu" data-show="hover" data-role="dropdown" style="display: none;">
                       <li><a href="#">Windows 8</a></li>
                       <li><a href="#">Skype</a></li>
                       <li><a href="#">Internet Explorer</a></li>
