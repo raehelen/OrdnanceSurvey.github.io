@@ -44,16 +44,7 @@ feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     id: "fr_5"
     alt: "Highways Image"
-    title: "OS VectorMap Local"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row6:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    id: "fr_6"
-    alt: "OS Places"
-    title: "OS Places"
+    title: "OS MasterMap Highways Network"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -61,17 +52,13 @@ feature_row6:
 ---
 
 <select id="select-anchor" onChange="window.location.hash=this.value">
-		<option value="#fr_6">Dropdown</option>
-		<option value="Brazil">Brazil</option>
-	 	<option value="#fr_3">one</option>
-		<option value="France">France</option>
-		<option value="Germany">Germany</option>
-	  <option value="India">India</option>
-	  <option value="Japan">Japan</option>
-	  <option value="Serbia">Serbia</option>
-	  <option value="UnitedKingdom">United Kingdom</option>
-	  <option value="UnitedStates">United States</option>
-	</select>
+		<option value="">Search Product</option>
+		<option value="#fr_1">OS MasterMap Topography</option>
+	 	<option value="#fr_3">OS VectorMap Local</option>
+		<option value="#fr_2">OS Open Zoomstack</option>
+		<option value="#fr_4">OS Open Greenspace</option>
+	 	<option value="#fr_5">OS MasterMap Highways Network </option>
+</select>
 	
 	
 {% include feature_row id="feature_row" type="left" %}
@@ -79,6 +66,5 @@ feature_row6:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
-{% include feature_row id="feature_row6" type="left" %}
 
 
