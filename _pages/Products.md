@@ -61,9 +61,9 @@ feature_row6:
 ---
 
 <select onChange="window.location.hash=this.value">
-		<option value="#fr_3">Dropdown</option>
+		<option value="#fr_6">Dropdown</option>
 		<option value="Brazil">Brazil</option>
-	 	<option value="#fr_6">one</option>
+	 	<option value="#fr_3">one</option>
 		<option value="France">France</option>
 		<option value="Germany">Germany</option>
 	  <option value="India">India</option>
