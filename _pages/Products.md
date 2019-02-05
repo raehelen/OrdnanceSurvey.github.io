@@ -49,7 +49,7 @@ feature_row5:
 
 <select id="select-anchor" onChange="window.location.hash=this.value">
 		<option value="">Search Product</option>
-		<option value="fr_1"">OS MasterMap Topography</option>
+		<option value="fr_1">OS MasterMap Topography</option>
 	 	<option value="fr_3">OS VectorMap Local</option>
 		<option value="fr_2">OS Open Zoomstack</option>
 		<option value="fr_4">OS Open Greenspace</option>
