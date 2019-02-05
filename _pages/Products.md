@@ -60,7 +60,7 @@ feature_row6:
     btn_class: "btn--primary"
 ---
 
-<select onChange="window.location.hash=this.value">
+<select id="select-anchor" onChange="window.location.hash=this.value">
 		<option value="#fr_6">Dropdown</option>
 		<option value="Brazil">Brazil</option>
 	 	<option value="#fr_3">one</option>
