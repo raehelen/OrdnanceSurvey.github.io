@@ -12,8 +12,6 @@ feature_row:
     url: "https://github.com/raehelen/OS-MasterMap-Topography"
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
-    btn_label: "home"
-    btn_class: "btn--secondary"
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
     alt: "Zoomstack Image"
@@ -60,7 +58,7 @@ feature_row5:
 	
 
 	
-<div id="fr_1"></div>{% include feature_row id="feature_row" type="left" %}	
+<div id="fr_1"></div>{% include feature_row id="feature_row" type="left" %}<a href="#" align="right">^</a>	
 <div id="fr_2"></div>{% include feature_row id="feature_row2" type="left" %}
 <div id="fr_3"></div>{% include feature_row id="feature_row3" type="left" %}
 <div id="fr_4"></div>{% include feature_row id="feature_row4" type="left" %}
