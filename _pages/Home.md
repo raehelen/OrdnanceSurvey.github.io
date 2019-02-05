@@ -21,8 +21,12 @@ You will find our products page that links to each product repository. Each prod
 <summary>How will I know which folder to search?</summary>
 
 The product repositories will be structured like so:
-⋅⋅* Data Translating.
-....* Code 
+<br>
+* Data Translating.
+  * GFS 
+  * Code
+  * FME
+
 <br>  
 All repositories and folder will contain README.files which will contain information and further guide you to the correct product resource. 
 </details>
