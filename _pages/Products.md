@@ -3,7 +3,8 @@ title: "Products"
 layout: single
 permalink: /products/
 author_profile: true
-<div id="1">
+---
+
 feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
     id: "fr_1"
@@ -13,7 +14,6 @@ feature_row:
     url: "https://github.com/raehelen/OS-MasterMap-Topography"
     btn_label: "GitHub" 
     btn_class: "btn--primary"
-</div>	
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
     id: "fr_2"
@@ -50,10 +50,7 @@ feature_row5:
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
----
 
-<a href="#fr_5">`^`</a> - (click to go to first anchor of this comment) 
-# Header without an anchor link
 
 
 <select id="select-anchor" onChange="window.location.hash=this.value">
