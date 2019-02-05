@@ -13,21 +13,18 @@ In fifteen short years, we’ve changed from a centuries-old venerable mapping c
 
 ## What you will find on our GitHub page
 
-<details>
+
 <summary>**How can we find OS product repositories?**</summary>
 <br>
 By clicking on the product tab, you will be presented with a list of all of our OS products. Choosing a product will take you to the product github repository.
-<details>
 
 <br>
 <br>
 
-
-<details>
 <summary>## What if I can't find the GitHub repository I am looking for?</summary>
 <br>
 For more information about Ordnance Survey please contact us using the social links provided to the left.
-<details> 
+
 
 
 
