@@ -23,7 +23,7 @@ feature_row2:
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/VectorMap_Local.PNG
+  - image_path: /assets/images/VectorMap Local.PNG
     id: "fr_3"
     alt: "VM Local Image"
     title: "OS VectorMap Local"
