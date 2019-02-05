@@ -25,8 +25,8 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/OSMM_Greenspace.jpg
     id: "fr_3"
-    alt: "Greenspace Image"
-    title: "OS Open Greenspace"
+    alt: "VM Local Image"
+    title: "OS VectorMap Local"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -34,8 +34,8 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     id: "fr_4"
-    alt: "Places Image"
-    title: "OS Open Places"
+    alt: "Greenspace Image"
+    title: "OS Open Greenspace"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
@@ -43,7 +43,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     id: "fr_5"
-    alt: "VectorMap Image"
+    alt: "Highways Image"
     title: "OS VectorMap Local"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
@@ -52,8 +52,8 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     id: "fr_6"
-    alt: "Highways Image"
-    title: "OS MasterMap Highways Network"
+    alt: "OS Places"
+    title: "OS Places"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
