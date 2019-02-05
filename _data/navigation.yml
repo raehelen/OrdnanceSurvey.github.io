@@ -2,6 +2,8 @@
 main:
   - title: "Products"
     url: https://raehelen.github.io/test-page/products/
+  - title: "Tools"
+    url: https://raehelen.github.io/test-page/tools/  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
