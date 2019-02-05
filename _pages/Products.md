@@ -9,7 +9,7 @@ feature_row:
     id: "fr_1"
     alt: "Topography Image"
     title: "OS MasterMap Topography"
-    excerpt: 'T most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees, fences, 	     paths and more.'
+    excerpt: 'Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees, fences, paths and more.'
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
@@ -27,7 +27,7 @@ feature_row3:
     id: "fr_3"
     alt: "VM Local Image"
     title: "OS VectorMap Local"
-    excerpt: 'A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names, for the 	     accurate lie of the land'
+    excerpt: 'A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names, for the accurate lie of the land.'
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
