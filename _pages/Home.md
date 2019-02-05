@@ -28,7 +28,7 @@ The product repositories will be structured like so:
  <br>
 - Data Translating |  Folder containing README. file about the different tools that can be used with this product
  <br>
-   * GFS |  For GML datasets as the majority of data loaders require a GFS file
+  ...* GFS |  For GML datasets as the majority of data loaders require a GFS file
  <br>
    * Code |  Any awk and python codes
  <br>
