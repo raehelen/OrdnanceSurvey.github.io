@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/zoomstack.PNG
     id: "fr_2"
     alt: "Zoomstack Image"
     title: "OS Open Zoomstack"
@@ -23,7 +23,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/OSMM_Greenspace.jpg
+  - image_path: /assets/images/VectorMap_Local.PNG
     id: "fr_3"
     alt: "VM Local Image"
     title: "OS VectorMap Local"
@@ -32,7 +32,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/OSMM_Greenspace.jpg
     id: "fr_4"
     alt: "Greenspace Image"
     title: "OS Open Greenspace"
@@ -41,7 +41,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/highways.PNG
     id: "fr_5"
     alt: "Highways Image"
     title: "OS MasterMap Highways Network"
