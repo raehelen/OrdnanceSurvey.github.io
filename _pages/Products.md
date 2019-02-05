@@ -5,6 +5,15 @@ permalink: /products/
 author_profile: true
 ---
 
+<select id="select-anchor" onChange="window.location.hash=this.value">
+		<option value="">Search Product</option>
+		<option value="fr_1">OS MasterMap Topography</option>
+	 	<option value="fr_3">OS VectorMap Local</option>
+		<option value="fr_2">OS Open Zoomstack</option>
+		<option value="fr_4">OS Open Greenspace</option>
+	 	<option value="fr_5">OS MasterMap Highways Network </option>
+</select>
+
 <div class="feature__wrapper">
 
   
@@ -153,7 +162,7 @@ author_profile: true
 
 </div>
 
-<div class="feature__wrapper">
+<div class="feature__wrapper" id="#fr_5">
 
   
 
@@ -190,16 +199,6 @@ author_profile: true
 
 </div>
 
-
-
-<select id="select-anchor" onChange="window.location.hash=this.value">
-		<option value="">Search Product</option>
-		<option value="fr_1">OS MasterMap Topography</option>
-	 	<option value="fr_3">OS VectorMap Local</option>
-		<option value="fr_2">OS Open Zoomstack</option>
-		<option value="fr_4">OS Open Greenspace</option>
-	 	<option value="fr_5">OS MasterMap Highways Network </option>
-</select>
 	
 	
 {% include feature_row id="feature_row" type="left" %}
