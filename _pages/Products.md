@@ -9,7 +9,7 @@ feature_row:
     id: "fr_1"
     alt: "Topography Image"
     title: "OS MasterMap Topography"
-    excerpt: 'Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more.'
+    excerpt: "Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more."
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
@@ -18,7 +18,7 @@ feature_row2:
     id: "fr_2"
     alt: "Zoomstack Image"
     title: "OS Open Zoomstack"
-    excerpt: 'A comprehensive vector basemap showing coverage of Great Britain from a national level, right down to street detail.'
+    excerpt: "A comprehensive vector basemap showing coverage of Great Britain from a national level, right down to street detail."
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
@@ -27,7 +27,7 @@ feature_row3:
     id: "fr_3"
     alt: "VM Local Image"
     title: "OS VectorMap Local"
-    excerpt: 'A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names.'
+    excerpt: "A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names."
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
@@ -36,7 +36,7 @@ feature_row4:
     id: "fr_4"
     alt: "Greenspace Image"
     title: "OS Open Greenspace"
-    excerpt: 'Britain’s most comprehensive Open dataset of urban and rural greenspaces.'
+    excerpt: "Britain’s most comprehensive Open dataset of urban and rural greenspaces."
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
@@ -45,7 +45,7 @@ feature_row5:
     id: "fr_5"
     alt: "Highways Image"
     title: "OS MasterMap Highways Network"
-    excerpt: 'The next generation of road mapping with an authoritative single view of the whole road network.'
+    excerpt: "The next generation of road mapping with an authoritative single view of the whole road network."
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
