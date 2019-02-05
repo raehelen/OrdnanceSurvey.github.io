@@ -11,7 +11,7 @@ feature_row:
     title: "OS MasterMap Topography"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
@@ -20,7 +20,7 @@ feature_row2:
     title: "OS Open Zoomstack"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/VectorMap_Local.PNG
@@ -29,7 +29,7 @@ feature_row3:
     title: "OS VectorMap Local"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/OSMM_Greenspace.jpg
@@ -38,7 +38,7 @@ feature_row4:
     title: "OS Open Greenspace"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/highways.PNG
@@ -47,7 +47,7 @@ feature_row5:
     title: "OS MasterMap Highways Network"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "GitHub"
     btn_class: "btn--primary"
 ---
 
