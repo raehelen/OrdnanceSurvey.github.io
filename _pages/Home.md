@@ -11,9 +11,24 @@ In fifteen short years, we’ve changed from a centuries-old venerable mapping c
 
 
 
-## What you will find on our GitHub page
+## What will I find on this GitHub page
+
+Our Github page is designed to allow you to easily navigate to our product repositories and associated tools, sql, stylesheets etc.
+
+You will find our products page that links to each product repository. Each product repository is organised into folders so you can easily locate the product resource you are looking for.
+
+<details>
+<summary>How will I know which folder to search?</summary>
+
+The product repositories will be structured like so:
+⋅⋅* Data Translating.
+....* Code 
+<br>  
+All repositories and folder will contain README.files which will contain information and further guide you to the correct product resource. 
+</details>
 
 
+<br>
 
 <details>
 <summary>How can we find OS product repositories?</summary>
