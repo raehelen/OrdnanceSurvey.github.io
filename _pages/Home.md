@@ -24,10 +24,19 @@ The product repositories will be structured like so:
 <br>
 - Styling |  Folder containing all things related to styling, SLD'S, LYR. files, fonts, symbols etc
  <br>
+-SQL | Folder containing core SQL files
+ <br>
 - Data Translating |  Folder containing README. file about the different tools that can be used with this product
+ <br>
    * GFS |  For GML datasets as the majority of data loaders require a GFS file
+ <br>
    * Code |  Any awk and python codes
+ <br>
    * FME |  Any FME workbenches
+ <br>
+- Frequently Asked Question |  README. file containing a list of FAQ's
+ <br>
+- Guidance | List of guides relevant to this product 
 
 <br>  
 All repositories and folder will contain README.files which will contain information and further guide you to the correct product resource. 
