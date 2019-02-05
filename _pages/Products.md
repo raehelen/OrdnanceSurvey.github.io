@@ -12,6 +12,8 @@ feature_row:
     url: "https://github.com/raehelen/OS-MasterMap-Topography"
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
+    btn_label: "home"
+    btn_class: "btn--secondary"
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
     alt: "Zoomstack Image"
