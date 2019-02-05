@@ -27,6 +27,7 @@ By clicking on the product tab, you will be presented with a list of all of our 
 <summary>What if I can't find the GitHub repository I am looking for?</summary>
 <br>
 For more information about Ordnance Survey please contact us using the social links provided to the left.
+<br>  
 If you have an idea or a bug within a specific repository please raise an issue directly, although we recommend browsing the open & closed issues before opening a new one.
 </details>
 
