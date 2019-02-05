@@ -31,7 +31,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
-feature_row4 id="fr_3":
+feature_row4:
   - image_path: /assets/images/OSMM_Greenspace.jpg
     id: "fr_3"	
     alt: "Greenspace Image"
