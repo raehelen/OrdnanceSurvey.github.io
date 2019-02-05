@@ -3,7 +3,6 @@ title: "Products"
 layout: single
 permalink: /products/
 author_profile: true
----
 
 feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
@@ -50,7 +49,8 @@ feature_row5:
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
-
+    
+---
 
 
 <select id="select-anchor" onChange="window.location.hash=this.value">
