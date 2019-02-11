@@ -70,10 +70,10 @@ Although we recommend browsing the open & closed issues before opening a new one
  
  
 1. On GitHub, navigate to the top of the repository main page.
-   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Issue")
+   ![alt text](https://github.com/raehelen/test-page/blob/master/assets/images/issuesnip.PNG "Issue")
 
 2. Click **New issue**.
-   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "New Issue")
+   ![alt text](https://github.com/raehelen/test-page/blob/master/assets/images/newissue.PNG "New Issue")
 
 3. Type a title and description for your issue.
 
