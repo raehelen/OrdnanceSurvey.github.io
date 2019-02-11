@@ -71,6 +71,7 @@ Although we recommend browsing the open & closed issues before opening a new one
  
 1. On GitHub, navigate to the top of the repository main page.
    <br>
+   
    ![alt text](https://github.com/raehelen/test-page/blob/master/assets/images/issuesnip.PNG)
 
 2. Click **New issue**.
