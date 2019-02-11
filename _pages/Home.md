@@ -69,7 +69,7 @@ If you have an idea or a bug within a specific repository please raise an issue 
 Although we recommend browsing the open & closed issues before opening a new one, just in case your issue has already been raised or solved.
  
  
-1. On GitHub, navigate to the top of the repository main page.
+1. On GitHub, navigate to **"Issues"** at the top of the repository page.
    <br>
    
    ![alt text](https://github.com/raehelen/test-page/blob/master/assets/images/issuesnip.PNG)
