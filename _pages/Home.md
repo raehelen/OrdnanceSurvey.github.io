@@ -70,13 +70,13 @@ Although we do recommend browsing the open & closed issues before opening a new 
 <br>
 <br>
 
-#### Wondering how it's done?
+<h4>Wondering how it's done?</h4>
 <br>
 <ul>
-  <li>1. On GitHub, navigate to **"Issues"** at the top of the repository page.</li>
-  <li>2. Click New issue.</li>
-  <li>3. Type a title and description for your issue.</li>
-  <li>4. When you're finished, click **Submit new issue**.</li>
+ <li>1. On GitHub, navigate to <b>"Issues"</b> at the top of the repository page.</li>
+ <li>2. Click <b>New issue</b>.</li>
+ <li>3. Type a title and description for your issue.</li>
+ <li>4. When you're finished, click <b>Submit new issue</b>.</li>
 
 </ul>  
 
