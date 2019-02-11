@@ -5,7 +5,7 @@ layout: single
 author-profile: true
 ---
 
-====================================================================================================================================
+================================================================
 
 Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain
 
