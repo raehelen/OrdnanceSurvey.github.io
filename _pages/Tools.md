@@ -17,7 +17,7 @@ feature_row2:
     alt: "GeoDataViz Toolkit"
     title: "GeoDataViz Toolkit"
     excerpt: "A set of resources that will help you communicate your data effectively through the design of compelling visuals."
-    url: "https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit"
+    url: "https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit " `target="_blank"`
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
 feature_row3:
