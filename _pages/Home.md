@@ -64,14 +64,11 @@ For more information about Ordnance Survey please contact us using the social li
 <br>
 <br> 
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
-
-
-If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
-
-
+If you have an idea or a bug within a specific repository please **raise an issue** directly and we aim to repond as quickly as possible.
+<br>
 Although we do recommend browsing the open & closed issues before opening a new one, just in case your issue has already been raised or solved.
 
-###### Wondering how it's done?
+##### Wondering how it's done?
  
  
 1. On GitHub, navigate to **"Issues"** at the top of the repository page.
