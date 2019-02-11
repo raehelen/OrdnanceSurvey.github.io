@@ -22,18 +22,18 @@ feature_row2:
     btn_class: "btn--primary" 
 feature_row3:
   - image_path: /assets/images/VectorMap Local.PNG
-    alt: "VM Local Image"
-    title: "OS VectorMap Local"
-    excerpt: "A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names."
-    url: "#test-link"
+    alt: "OS OpenSpace iOS SDK"
+    title: "OS OpenSpace iOS SDK"
+    excerpt: "Software development kit providing access to a number of mapping layers and gazetteer lookups to create free and commercial mobile applications with our data."
+    url: "https://github.com/OrdnanceSurvey/openspace-ios-sdk"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/OSMM_Greenspace.jpg
-    alt: "Greenspace Image"
-    title: "OS Open Greenspace"
-    excerpt: "Britain’s most comprehensive Open dataset of urban and rural greenspaces."
-    url: "#test-link"
+    alt: "OS OpenSpace Android SDK"
+    title: "OS OpenSpace Android SDK"
+    excerpt: "Software development kit providing access to a number of mapping layers and gazetteer lookups to create free and commercial mobile applications with our data."
+    url: "https://github.com/OrdnanceSurvey/openspace-android-sdk"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row5:
