@@ -5,23 +5,25 @@ layout: single
 author-profile: true
 ---
 
-================================================================
+
 
 Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain
 
 In fifteen short years, we’ve changed from a centuries-old venerable mapping company into a big data powerhouse. Our location information is weaving itself into the very fabric of our everyday lives, right across Great Britain.
 <br>
 
-# Why Use Ordnance Survey's GitHub?
-=========================================
+Why Use Ordnance Survey's GitHub?
+====================================
+
 
 Github provides a primary route for technical support and engagement with OS, providing not only access to code, tools, documentation, etc but also a route which you can use to feedback and collaborate with our technical teams. 
 
 We will use this as a route to a knowledge share tool improving the usability and discoverability of OS data.
 <br>
 
-# What will I find on this GitHub page?
+What will I find on this GitHub page?
 ==========================================
+
 
 Our Github page is designed to allow you to easily navigate to our product repositories and associated schemas, SQL, stylesheets etc.
 
