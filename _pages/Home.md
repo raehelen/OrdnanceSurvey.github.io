@@ -72,19 +72,13 @@ Although we do recommend browsing the open & closed issues before opening a new 
 
 #### Wondering how it's done?
 <br>
-  
-1. On GitHub, navigate to **"Issues"** at the top of the repository page.
-   <br>
-   
-   ![alt text](https://github.com/raehelen/test-page/blob/master/assets/images/issuesnip.PNG)
+<ul>
+  <li>1. On GitHub, navigate to **"Issues"** at the top of the repository page.</li>
+  <li>2. Click New issue.</li>
+  <li>3. Type a title and description for your issue.</li>
+  <li>4. When you're finished, click **Submit new issue**.</li>
 
-2. Click **New issue**.
-   <br>
-   ![alt text](https://github.com/raehelen/test-page/blob/master/assets/images/newissue.PNG)
-
-3. Type a title and description for your issue.
-
-4. When you're finished, click **Submit new issue**. 
+</ul>  
 
 <br>
 Further information on creating an issue or creating an issue from specific code can both be locate here (https://help.github.com/articles/creating-an-issue/)
