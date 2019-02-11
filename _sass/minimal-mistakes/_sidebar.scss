@@ -52,12 +52,12 @@
   h5,
   h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $global-font-family;
   }
 
   p,
   li {
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -169,7 +169,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $global-font-family;
   font-size: $type-size-5;
 }
 
