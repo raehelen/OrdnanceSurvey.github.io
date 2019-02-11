@@ -8,18 +8,20 @@ author-profile: true
 Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain
 
 In fifteen short years, we’ve changed from a centuries-old venerable mapping company into a big data powerhouse. Our location information is weaving itself into the very fabric of our everyday lives, right across Great Britain.
+<br>
 
 # Why Use Ordnance Survey's GitHub?
 
-Github provides a primary route for technical support and engagement with OS, providing not only access to code, tools, documentation, etc but also a route which you can use to feedback and collaborate with our technical teams.  We will use this as a route to a knowledge share tool improving the usability and discoverability of OS data
+Github provides a primary route for technical support and engagement with OS, providing not only access to code, tools, documentation, etc but also a route which you can use to feedback and collaborate with our technical teams. 
+
+We will use this as a route to a knowledge share tool improving the usability and discoverability of OS data.
+<br>
 
 # What will I find on this GitHub page?
 
+Our Github page is designed to allow you to easily navigate to our product repositories and associated schemas, SQL, stylesheets etc.
 
-
-Our Github page is designed to allow you to easily navigate to our product repositories and associated schemas, sql, stylesheets etc.
-
-You will find our products page that links to each product repository. Each product repository is organised into folders so you can easily locate the product resource you are looking for.
+From the [Products](https://raehelen.github.io/test-page/products/) page you will find links to each product repository. Each product repository is then organised into folders & sub-folders so you can easily locate the product resource you are looking for.
 <br>
 
 <details>
@@ -35,8 +37,8 @@ The product repositories will be structured like so:
   * GFS - For GML datasets as the majority of data loaders require a GFS file
   * Code - Any awk and python code
   * FME - Any FME workbenches
-- Frequently Asked Question |  README. file containing a list of FAQ's
-- Guidance | List of guides relevant to this product 
+- Frequently Asked Questions - README. file containing a list of FAQ's
+- Guidance - List of guides relevant to this product 
 
 <br>  
 All repositories and folder will contain README.files which will contain information and further guide you to the correct product resource. 
