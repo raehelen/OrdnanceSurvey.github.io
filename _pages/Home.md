@@ -68,9 +68,9 @@ If you have an idea or a bug within a specific repository please raise an issue 
 <br>
 Although we do recommend browsing the open & closed issues before opening a new one, just in case your issue has already been raised or solved.
 <br>
+<br>
 
-
-##### Wondering how it's done?
+#### Wondering how it's done?
 <br>
   
 1. On GitHub, navigate to **"Issues"** at the top of the repository page.
