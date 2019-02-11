@@ -43,7 +43,7 @@ feature_row4:
 		<option value="fr_1">OS Maps API</option>
 	 	<option value="fr_2">GeoDataViz Toolkit</option>
 		<option value="fr_3">OS OpenSpace iOS SDK</option>
-		<option value="fr_4">OS OpenSpae Android SDK</option>
+		<option value="fr_4">OS OpenSpace Android SDK</option>
 </select>
 	
 	
