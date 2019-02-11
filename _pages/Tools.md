@@ -6,18 +6,18 @@ author_profile: true
 
 feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
-    alt: "GeoDataViz-Toolkit"
-    title: "Geodataviz toolkit"
+    alt: "GeoDataViz Toolkit"
+    title: "GeoDataViz Toolkit"
     excerpt: "A set of resources that will help you communicate your data effectively through the design of compelling visuals."
     url: "https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit"
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
-    alt: "Zoomstack Image"
-    title: "OS Open Zoomstack"
-    excerpt: "A comprehensive vector basemap showing coverage of Great Britain from a national level, right down to street detail."
-    url: "#test-link"
+    alt: "OS Maps API"
+    title: "OS Maps API"
+    excerpt: "Working examples of how to use the OS Maps API, a RESTful API based on the OS datasets."
+    url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row3:
