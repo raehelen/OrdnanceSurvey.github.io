@@ -47,7 +47,7 @@ feature_row4:
 </select>
 	
 	
-<div id="fr_1"></div>{% include feature_row id="feature_row" type="left" %}
+<div id="fr_1" style="font-family: "OS Gill", sans-serif;"></div>{% include feature_row id="feature_row" type="left" %}
 <div id="fr_2"></div>{% include feature_row id="feature_row2" type="left" %}
 <div id="fr_3"></div>{% include feature_row id="feature_row3" type="left" %}
 <div id="fr_4"></div>{% include feature_row id="feature_row4" type="left" %}
