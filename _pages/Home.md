@@ -72,13 +72,13 @@ Although we do recommend browsing the open & closed issues before opening a new 
 
 <h4>Wondering how it's done?</h4>
 <br>
-<ul>
- <li>1. On GitHub, navigate to <b>"Issues"</b> at the top of the repository page.</li>
- <li>2. Click <b>New issue</b>.</li>
- <li>3. Type a title and description for your issue.</li>
- <li>4. When you're finished, click <b>Submit new issue</b>.</li>
+<ol>
+ <li>On GitHub, navigate to <b>"Issues"</b> at the top of the repository page.</li>
+ <li>Click <b>New issue</b>.</li>
+ <li>Type a title and description for your issue.</li>
+ <li>When you're finished, click <b>Submit new issue</b>.</li>
 
-</ul>  
+</ol>  
 
 <br>
 Further information on creating an issue or creating an issue from specific code can both be locate here (https://help.github.com/articles/creating-an-issue/)
