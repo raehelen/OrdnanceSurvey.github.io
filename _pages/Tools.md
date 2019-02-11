@@ -5,7 +5,7 @@ permalink: /tools/
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/os-basemap-styles.gif
+  - image_path: /assets/images/GDVeg.PNG
     alt: "GeoDataViz Toolkit"
     title: "GeoDataViz Toolkit"
     excerpt: "A set of resources that will help you communicate your data effectively through the design of compelling visuals."
@@ -13,7 +13,7 @@ feature_row:
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
 feature_row2:
-  - image_path: /assets/images/zoomstack.PNG
+  - image_path: /assets/images/os-basemap-styles.gif
     alt: "OS Maps API"
     title: "OS Maps API"
     excerpt: "Working examples of how to use the OS Maps API, a RESTful API based on the OS datasets."
