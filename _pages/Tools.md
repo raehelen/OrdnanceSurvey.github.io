@@ -58,7 +58,7 @@ feature_row5:
 	
 
 	
-<div id="fr_1"></div>{% include feature_row id="feature_row" type="left" target="_blank" %}
+<div id="fr_1"></div>{% include feature_row id="feature_row" type="left" %}
 <div id="fr_2"></div>{% include feature_row id="feature_row2" type="left" %}
 <div id="fr_3"></div>{% include feature_row id="feature_row3" type="left" %}
 <div id="fr_4"></div>{% include feature_row id="feature_row4" type="left" %}
