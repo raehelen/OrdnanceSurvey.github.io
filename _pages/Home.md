@@ -11,6 +11,8 @@ In fifteen short years, we’ve changed from a centuries-old venerable mapping c
 
 # Why Use Ordnance Survey's GitHub?
 
+Github provides a primary route for technical support and engagement with OS, providing not only access to code, tools, documentation, etc but also a route which you can use to feedback and collaborate with our technical teams.  We will use this as a route to a knowledge share tool improving the usability and discoverability of OS data
+
 # What will I find on this GitHub page?
 
 
