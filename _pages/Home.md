@@ -63,7 +63,9 @@ By clicking on the product tab, you will be presented with a list of all of our 
 For more information about Ordnance Survey please contact us using the social links provided to the left.
 <br>
 <br> 
-Our Technical experts including those who author the resource on Github are engaged with Github and can respond to you directly.
+Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
+
+
 If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
 
 
