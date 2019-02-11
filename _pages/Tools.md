@@ -5,7 +5,7 @@ permalink: /tools/
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/OSMM_Topography_Layer.jpg
+  - image_path: /assets/images/os-basemap-styles.gif
     alt: "GeoDataViz Toolkit"
     title: "GeoDataViz Toolkit"
     excerpt: "A set of resources that will help you communicate your data effectively through the design of compelling visuals."
