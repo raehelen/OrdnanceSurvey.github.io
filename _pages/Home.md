@@ -63,7 +63,24 @@ By clicking on the product tab, you will be presented with a list of all of our 
 For more information about Ordnance Survey please contact us using the social links provided to the left.
 <br>
 <br> 
-If you have an idea or a bug within a specific repository please raise an issue directly, although we recommend browsing the open & closed issues before opening a new one.
+Our Technical experts including those who author the resource on Github are engaged with Github and can respond to you directly.
+If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
+ 
+Although we recommend browsing the open & closed issues before opening a new one, just in case your issue has already been raised or solved.
+ 
+ 
+1. On GitHub, navigate to the top of the repository main page.
+   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Issue")
+
+2. Click **New issue**.
+   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "New Issue")
+
+3. Type a title and description for your issue.
+
+4. When you're finished, click **Submit new issue**. 
+
+
+Further information on creating an issue or creating an issue from specific code can both be locate here (https://help.github.com/articles/creating-an-issue/)
 </details>
 
 
