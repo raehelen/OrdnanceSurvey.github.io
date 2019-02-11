@@ -5,14 +5,6 @@ permalink: /tools/
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/GDVeg.PNG
-    alt: "GeoDataViz Toolkit"
-    title: "GeoDataViz Toolkit"
-    excerpt: "A set of resources that will help you communicate your data effectively through the design of compelling visuals."
-    url: "https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit"
-    btn_label: "GitHub" 
-    btn_class: "btn--primary" 
-feature_row2:
   - image_path: /assets/images/os-basemap-styles.gif
     alt: "OS Maps API"
     title: "OS Maps API"
@@ -20,6 +12,14 @@ feature_row2:
     url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
     btn_label: "GitHub"
     btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/GDVeg.PNG
+    alt: "GeoDataViz Toolkit"
+    title: "GeoDataViz Toolkit"
+    excerpt: "A set of resources that will help you communicate your data effectively through the design of compelling visuals."
+    url: "https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit"
+    btn_label: "GitHub" 
+    btn_class: "btn--primary" 
 feature_row3:
   - image_path: /assets/images/VectorMap Local.PNG
     alt: "VM Local Image"
