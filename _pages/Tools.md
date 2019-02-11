@@ -21,7 +21,7 @@ feature_row2:
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
 feature_row3:
-  - image_path: /assets/images/ioscreen.png
+  - image_path: /assets/images/1.png
     alt: "OS OpenSpace iOS SDK"
     title: "OS OpenSpace iOS SDK"
     excerpt: "Software development kit providing access to a number of mapping layers and gazetteer lookups to create free and commercial mobile applications with our data."
@@ -29,7 +29,7 @@ feature_row3:
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/adroid.png
+  - image_path: /assets/images/android.png
     alt: "OS OpenSpace Android SDK"
     title: "OS OpenSpace Android SDK"
     excerpt: "Software development kit providing access to a number of mapping layers and gazetteer lookups to create free and commercial mobile applications with our data."
