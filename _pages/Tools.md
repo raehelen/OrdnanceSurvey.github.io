@@ -41,8 +41,8 @@ feature_row4:
 <select id="select-anchor" onChange="window.location.hash=this.value">
 		<option value="">Select Tool</option>
 		<option value="fr_1">OS Maps API</option>
-	 	<option value="fr_3">GeoDataViz Toolkit</option>
-		<option value="fr_2">OS OpenSpace iOS SDK</option>
+	 	<option value="fr_2">GeoDataViz Toolkit</option>
+		<option value="fr_3">OS OpenSpace iOS SDK</option>
 		<option value="fr_4">OS OpenSpae Android SDK</option>
 </select>
 	
