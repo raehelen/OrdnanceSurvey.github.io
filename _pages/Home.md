@@ -74,14 +74,13 @@ Although we do recommend browsing the open & closed issues before opening a new 
 <br>
 <ol>
  <li>On GitHub, navigate to <b>"Issues"</b> at the top of the repository page.</li>
+ <img src="http://raehelen.github.io/test-page//assets/images/issuesnip.png" alt="">
  <li>Click <b>New issue</b>.</li>
  ![]({{"/assets/images/newissue.png"|absolute_url}})
  <li>Type a title and description for your issue.</li>
  <li>When you're finished, click <b>Submit new issue</b>.</li>
 
 </ol>  
-
- ![]({{"/assets/images/issuesnip.png"|absolute_url}})
 
 <br>
 Further information on creating an issue or creating an issue from specific code can both be locate here (https://help.github.com/articles/creating-an-issue/)
