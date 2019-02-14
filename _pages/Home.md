@@ -27,9 +27,9 @@ From the [Products](https://raehelen.github.io/test-page/products/) page you wil
 <br>
 
 <details>
-<summary>How will I know which folder to search?</summary>
+<summary>How will I know what to look for?</summary>
 <br>
-The product repositories will be structured like so:
+Within each repository you will find:
 <br>
 <br>
  
