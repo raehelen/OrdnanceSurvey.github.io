@@ -65,7 +65,7 @@ By clicking on the product tab, you will be presented with a list of all of our 
 <details>
 <summary>What if I can't find the GitHub repository I am looking for?</summary>
 <br>
-If you have a general enquiry around an OS product portolio please head to the product [website](https://www.ordnancesurvey.co.uk/business-and-government/products/) or use the social links provided to the left
+If you have a general enquiry around an OS product portolio please head to the product <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html">website</a> or use the social links provided to the left
 <br>
 <br> 
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
