@@ -23,7 +23,7 @@ We will use this as a route to a knowledge share tool improving the usability an
 
 Our Github page is designed to allow you to easily navigate to our product repositories and associated schemas, SQL, stylesheets etc.
 
-From the [Products](https://raehelen.github.io/test-page/products/) page you will find links to each product repository. Each product repository is then organised into folders & sub-folders so you can easily locate the product resource you are looking for.
+From the [Products](https://raehelen.github.io/test-page/products/) page you will find links to each product repository.
 <br>
 
 <details>
