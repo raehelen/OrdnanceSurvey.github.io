@@ -86,7 +86,7 @@ Although we do recommend browsing the open & closed issues before opening a new 
 </ol>  
 
 <br>
-Further information on creating an issue or creating an issue from specific code can both be locate here (https://help.github.com/articles/creating-an-issue/)
+Further information on creating an issue or creating an issue from specific code can both be locate <a href="https://help.github.com/articles/creating-an-issue/">here</a> ()
 </details>
 
 
