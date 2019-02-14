@@ -33,7 +33,6 @@ From the [Products](https://raehelen.github.io/test-page/products/) page you wil
 <br>
 Within each repository you will find:
 <br>
-<br>
  
 <ul>
  <li><b>Styling</b> – top level folder containing all things related to the styling, Stylesheets, LYR files, fonts etc.</li>
