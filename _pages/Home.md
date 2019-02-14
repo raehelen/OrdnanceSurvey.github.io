@@ -29,6 +29,16 @@ From the [Products](https://raehelen.github.io/test-page/products/) page you wil
 <br>
 
 <details>
+<summary>How can we find OS product repositories?</summary>
+<br>
+By clicking on the product tab, you will be presented with a list of all of our OS products. Choosing a product will take you to the product github repository.
+<br>
+By click on the tools tab, you will be presented with a list of all tools, resources and useful code to use with our OS products. Choosing a tool with take you to relevant github repository 
+</details>
+
+<br>
+
+<details>
 <summary>How will I know what to look for?</summary>
 <br>
 Within each repository you will find:
@@ -49,16 +59,7 @@ Within each repository you will find:
 </ul>
 
 <br>  
-All repositories and folder will contain README.files which will contain information and further guide you to the correct product resource. 
-</details>
-
-
-<br>
-
-<details>
-<summary>How can we find OS product repositories?</summary>
-<br>
-By clicking on the product tab, you will be presented with a list of all of our OS products. Choosing a product will take you to the product github repository.
+All repositories and folders contain README.files with information to further guide you towards the correct product and useage. 
 </details>
 
 <br>
