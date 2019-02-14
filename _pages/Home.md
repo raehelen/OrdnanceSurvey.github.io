@@ -65,7 +65,7 @@ By clicking on the product tab, you will be presented with a list of all of our 
 <details>
 <summary>What if I can't find the GitHub repository I am looking for?</summary>
 <br>
-For more information about Ordnance Survey please contact us using the social links provided to the left.
+If you have a general enquiry around an OS product portolio please head to the product [website](https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html) or use the social links provided to the left
 <br>
 <br> 
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
@@ -75,7 +75,7 @@ Although we do recommend browsing the open & closed issues before opening a new 
 <br>
 <br>
 
-<h4>Wondering how it's done?</h4>
+<h3>Wondering how it's done?</h3>
 <br>
 <ol>
  <li>On GitHub, navigate to <b>"Issues"</b> at the top of the repository page.</li>
