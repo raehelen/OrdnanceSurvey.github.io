@@ -44,7 +44,14 @@ feature_row5:
     url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"
-    
+feature_row6:
+  - image_path: /assets/images/os-basemap-styles.gif
+    alt: "OS Maps API"
+    title: "OS Maps API"
+    excerpt: "Working examples of how to use the OS Maps API, a RESTful API based on the OS datasets."
+    url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
+    btn_label: "GitHub"
+    btn_class: "btn--primary"    
 ---
 
 <select id="select-anchor" onChange="window.location.hash=this.value">
@@ -53,7 +60,8 @@ feature_row5:
 	 	<option value="fr_3">OS VectorMap Local</option>
 		<option value="fr_2">OS Open Zoomstack</option>
 		<option value="fr_4">OS Open Greenspace</option>
-	 	<option value="fr_5">OS MasterMap Highways Network </option>
+	 	<option value="fr_5">OS MasterMap Highways Network</option>
+		<option value="fr_6">OS Maps API</option>
 </select>
 	
 
@@ -63,5 +71,6 @@ feature_row5:
 <div id="fr_3"></div>{% include feature_row id="feature_row3" type="left" %}
 <div id="fr_4"></div>{% include feature_row id="feature_row4" type="left" %}
 <div id="fr_5"></div>{% include feature_row id="feature_row5" type="left" %}
+<div id="fr_6"></div>{% include feature_row id="feature_row6" type="left" %}
 
 
