@@ -47,8 +47,8 @@ Within each product repository you will find:
 <br>
  
 <ul>
- <li><b>Styling</b> – top level folder containing all things related to the styling, Stylesheets, LYR files, fonts etc.</li>
- <li><b>SQL</b> – top level folder containing core SQL files for that product</li>
+ <li><b>Styling</b> – Top level folder containing all things related to the styling, Stylesheets, LYR files, fonts etc.</li>
+ <li><b>SQL</b> – Top level folder containing core SQL files for that product</li>
  <li><b>Data Translating</b> – Top lovel folder contains README. file about all the different tools that can be used on this product</li> 
     <ul>
       <li><b>GFS</b> - GFS files for Data Loaders and GML datasets</li>
