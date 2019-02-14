@@ -41,7 +41,7 @@ By click on the tools tab, you will be presented with a list of all tools, resou
 <details>
 <summary>How will I know what to look for?</summary>
 <br>
-Within each repository you will find:
+Within each product repository you will find:
 <br>
  
 <ul>
