@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "About"
+title                    : "Products"
 title_separator          : "-"
 name                     : "Ordnance Survey"
 description              : "Ordnance Survey GitHub Landing Page"
