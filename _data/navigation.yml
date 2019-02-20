@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Products"
-    url: https://raehelen.github.io/test-page/products/
   - title: "Tools"
-    url: https://raehelen.github.io/test-page/tools/  
+    url: https://raehelen.github.io/test-page/tools/
+  - title: "About"
+    url: https://raehelen.github.io/test-page/about/  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
