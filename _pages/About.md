@@ -25,7 +25,7 @@ We will use this to improve the usability and discoverability of OS data.
 
 Our Github page is designed to allow you to easily navigate to our product repositories and associated schemas, SQL, stylesheets etc.
 
-From the [Products](https://raehelen.github.io/test-page/products/) page you will find links to each product repository.
+From the [Products](https://raehelen.github.io/test-page/) tab you will find links to each product repository.
 <br>
 <br>
 
