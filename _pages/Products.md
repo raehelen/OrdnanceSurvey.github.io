@@ -1,7 +1,7 @@
 ---
 title: "Products"
 layout: single
-permalink: /products/
+permalink: /
 author_profile: true
 
 feature_row:
