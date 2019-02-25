@@ -47,30 +47,36 @@ All repositories and folders contain README.files with information to further gu
 If you have a general enquiry around an OS product portolio please head to the product <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html">website</a> or use the social links provided to the left
 </details>
 
+<br>
 
 # How do I contribute?
 
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
 <br> 
+
+<summary><b>How do I raise an issue?</b></summary>
+<br>
 If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
+<br>
 <br>
 Although we do recommend browsing the open & closed issues before opening a new one, just in case your issue has already been raised or solved.
 <br>
-<br>
-
-<h3>Wondering how it's done?</h3>
 <br>
 <ol>
  <li>On GitHub, navigate to <b>"Issues"</b> at the top of the repository page.</li>
  <li>Click <b>New issue</b>.</li>
  <li>Type a title and description for your issue.</li>
  <li>When you're finished, click <b>Submit new issue</b>.</li>
-
 </ol>  
 
 <br>
 Further information on creating an issue or creating an issue from specific code can both be locate <a href="https://help.github.com/articles/creating-an-issue/">here</a>
 </details>
+
+
+
+
+
 
 
 
