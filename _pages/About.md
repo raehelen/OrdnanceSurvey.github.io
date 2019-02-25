@@ -23,43 +23,19 @@ We will use this to improve the usability and discoverability of OS data.
 
 # What will I find on this GitHub page?
 
-Our Github page is designed to allow you to easily navigate to our product repositories and associated schemas, SQL, stylesheets etc.
+Our Github page is designed to allow you to easily navigate to our product repositories and associated tools, schema's, stylesheets etc.
 
-From the [Products](https://raehelen.github.io/test-page/) tab you will find links to each product repository.
 <br>
 <br>
 
 <details>
 <summary>How can we find OS product repositories?</summary>
 <br>
-By clicking on the product tab, you will be presented with a list of all of our OS products. Choosing a product will take you to the product github repository.
+By clicking on the [Products](https://raehelen.github.io/test-page/) tab, you will be presented with a list of all of our OS products. Choosing a product will take you to the product github repository.
 <br>
 <br>
-By clicking on the tools tab, you will be presented with a list of all tools, resources and useful code to use with our OS products. Choosing a tool with take you to relevant github repository 
-</details>
-
-<br>
-
-<details>
-<summary>How will I know what to look for?</summary>
-<br>
-Within each product repository you will find:
-<br>
+By clicking on the [Tools](https://raehelen.github.io/test-page/tools/) tab, you will be presented with a list of all tools, resources and useful code to use with our OS products. Choosing a tool with take you to relevant github repository 
  
-<ul>
- <li><b>Styling</b> – Top level folder containing all things related to the styling, Stylesheets, LYR files, fonts etc.</li>
- <li><b>SQL</b> – Top level folder containing core SQL files for that product</li>
- <li><b>Data Translating</b> – Top lovel folder contains README. file about all the different tools that can be used on this product</li> 
-    <ul>
-      <li><b>GFS</b> - GFS files for Data Loaders and GML datasets</li>
-      <li><b>Code</b> – Awk and python code</li>
-      <li><b>FME</b> – FME workbenches</li>
-    </ul>
- <li><b>Sample Code</b> – Sample code or demos for that product</li>
- <li><b>Schemas</b> - Old & new update Schema versions</li>
- <li><b>Guidance</b> - List of guides relevant to this product</li> 
-</ul>
-
 <br>  
 All repositories and folders contain README.files with information to further guide you towards the correct product and useage. 
 </details>
