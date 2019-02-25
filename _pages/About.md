@@ -54,7 +54,8 @@ If you have a general enquiry around an OS product portolio please head to the p
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
 <br> 
 
-<summary><b>How do I raise an issue?</b></summary>
+<details>
+ <summary><b>How do I raise an issue?</b></summary>
 <br>
 If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
 <br>
@@ -70,7 +71,7 @@ Although we do recommend browsing the open & closed issues before opening a new 
 </ol>  
 
 <br>
-Further information on creating an issue or creating an issue from specific code can both be locate <a href="https://help.github.com/articles/creating-an-issue/">here</a>
+Further information on creating an issue or creating an issue from specific code can both be located <a href="https://help.github.com/articles/creating-an-issue/">here</a>
 </details>
 
 
