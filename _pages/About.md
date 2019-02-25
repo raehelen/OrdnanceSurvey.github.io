@@ -28,7 +28,7 @@ Our Github page is designed to allow you to easily navigate to our product repos
 <br>
 
 <details>
-<summary>How can we find OS product repositories?</summary>
+ <summary><b>How can we find OS product repositories?</b></summary>
 <br>
  By clicking on the <a href="https://raehelen.github.io/test-page/">Products</a> tab, you will be presented with a list of all of our OS products. Choosing a product will take you to the product github repository.
 <br>
@@ -42,7 +42,7 @@ All repositories and folders contain README.files with information to further gu
 <br>
 
 <details>
-<summary>What if I can't find the GitHub repository I am looking for?</summary>
+ <summary><b>What if I can't find the GitHub repository I am looking for?</b></summary>
 <br>
 If you have a general enquiry around an OS product portolio please head to the product <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html">website</a> or use the social links provided to the left
 <br>
