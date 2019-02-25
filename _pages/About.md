@@ -34,7 +34,7 @@ Our Github page is designed to allow you to easily navigate to our product repos
 <br>
 <br>
  By clicking on the <a href="https://raehelen.github.io/test-page/tools/">Tools</a> tab, you will be presented with a list of all tools, resources and useful code to use with our OS products. Choosing a tool with take you to relevant github repository 
- 
+<br> 
 <br>  
 All repositories and folders contain README.files with information to further guide you towards the correct product and useage. 
 </details>
