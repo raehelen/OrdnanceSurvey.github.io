@@ -13,7 +13,7 @@ In fifteen short years, we’ve changed from a centuries-old venerable mapping c
 <br>
 <br>
 
-# Why Use GitHub?
+# Why use GitHub?
 
 Github provides a primary route for technical support and engagement with OS, providing not only access to code, tools, documentation, etc. but also a route which you can use to feedback and collaborate with our technical teams. 
 
@@ -45,12 +45,13 @@ All repositories and folders contain README.files with information to further gu
  <summary><b>What if I can't find the GitHub repository I am looking for?</b></summary>
 <br>
 If you have a general enquiry around an OS product portolio please head to the product <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html">website</a> or use the social links provided to the left
-<br>
-<br> 
+</details>
+
+
+# How do I contribute?
+
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
-<br>
-<br>
- 
+<br> 
 If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
 <br>
 Although we do recommend browsing the open & closed issues before opening a new one, just in case your issue has already been raised or solved.
