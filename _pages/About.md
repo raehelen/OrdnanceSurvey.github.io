@@ -26,7 +26,6 @@ We will use this to improve the usability and discoverability of OS data.
 Our Github page is designed to allow you to easily navigate to our product repositories and associated tools, schema's, stylesheets etc.
 
 <br>
-<br>
 
 <details>
 <summary>How can we find OS product repositories?</summary>
