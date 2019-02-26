@@ -54,7 +54,6 @@ If you have a general enquiry around an OS product portolio please head to the p
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
 <br>
 <br>
-
 <details>
  <summary><b>How do I raise an issue?</b></summary>
 <br>
