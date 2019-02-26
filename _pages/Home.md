@@ -9,7 +9,7 @@ feature_row:
     alt: "Topography Image"
     title: "OS MasterMap Topography"
     excerpt: "Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more."
-    url: "https://github.com/raehelen/OS-MasterMap-Topography"
+    url: "https://github.com/OrdnanceSurvey/OS-Master-Map-Topography"
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
 feature_row2:
