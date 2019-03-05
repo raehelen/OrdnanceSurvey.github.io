@@ -106,11 +106,7 @@ $(document).ready(function() {
   });
 });
 
-//select2 product search
-
-$(document).ready(function() {
-    $('.Products').select2();
-});
+//product search
 
 $(document).ready(function () {
         $('#select-anchor').change( function () {
