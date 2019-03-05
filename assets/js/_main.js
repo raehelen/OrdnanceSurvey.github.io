@@ -106,28 +106,8 @@ $(document).ready(function() {
   });
 });
 
-//product search
+//select2 product search
 
-$(".dropdown dt a").click(function() {
-    $(".dropdown dd ul").toggle();
+$(document).ready(function() {
+    $('.js-example-basic-single').select2();
 });
-$(".dropdown dd ul li a").click(function() {
-    var text = $(this).html();
-    $(".dropdown dt a span").html(text);
-    $(".dropdown dd ul").hide();
-});
-$(document).bind('click', function(e) {
-    var $clicked = $(e.target);
-    if (! $clicked.parents().hasClass("dropdown"))
-        $(".dropdown dd ul").hide();
-});
-
- $(document).ready(function () {
-        $('#select-anchor').change( function () {
-            var targetPosition = $($(this).val()).offset().top;
-            $('html,body').animate({ scrollTop: targetPosition}, 'slow');
-        });
-    });   
-   
-
-
