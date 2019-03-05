@@ -109,7 +109,7 @@ $(document).ready(function() {
 //select2 product search
 
 $(document).ready(function() {
-    $('.js-example-basic-single').select2();
+    $('.Products').select2();
 });
 
 $(document).ready(function () {
