@@ -54,8 +54,7 @@ feature_row6:
     btn_class: "btn--primary"    
 ---
 
-<select id="select-anchor" onChange="window.location.hash=this.value">
-		<option value="">Select Product</option>
+<select class="js-example-basic-single" name="Product">
 		<option value="fr_1">OS MasterMap Topography</option>
 	 	<option value="fr_3">OS VectorMap Local</option>
 		<option value="fr_2">OS Open Zoomstack</option>
