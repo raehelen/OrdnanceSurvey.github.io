@@ -11,7 +11,7 @@ feature_row:
     excerpt: "Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more."
     url: "https://github.com/OrdnanceSurvey/OS-Master-Map-Topography"
     btn_label: "GitHub" 
-    btn_class: "btn--default" 
+    btn_class: "btn" 
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
     alt: "Zoomstack Image"
