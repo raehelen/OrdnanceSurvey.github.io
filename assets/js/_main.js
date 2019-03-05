@@ -111,3 +111,10 @@ $(document).ready(function() {
 $(document).ready(function() {
     $('.js-example-basic-single').select2();
 });
+
+$(document).ready(function () {
+        $('#select-anchor').change( function () {
+            var targetPosition = $($(this).val()).offset().top;
+            $('html,body').animate({ scrollTop: targetPosition}, 'slow');
+        });
+    });   
