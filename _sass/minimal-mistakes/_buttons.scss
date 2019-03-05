@@ -32,7 +32,7 @@
   $buttoncolors:
   (primary, #fff),
   (inverse, #fff),
-  (light-outline, #453C90),
+  (light-outline, transparent),
   (success, $success-color),
   (warning, $warning-color),
   (danger, $danger-color),
@@ -46,7 +46,7 @@
     &--#{$buttoncolor} {
       @include yiq-contrasted($color);
       @if ($buttoncolor == inverse) {
-        border: 1px solid $border-color;
+        border: 1px solid #453C90;
       }
       @if ($buttoncolor == light-outline) {
         border: 1px solid #fff;
