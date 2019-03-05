@@ -11,7 +11,7 @@ feature_row:
     excerpt: "Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more."
     url: "https://github.com/OrdnanceSurvey/OS-Master-Map-Topography"
     btn_label: "GitHub" 
-    btn_class: "btn--primary" 
+    btn_class: "btn--default" 
 feature_row2:
   - image_path: /assets/images/zoomstack.PNG
     alt: "Zoomstack Image"
@@ -19,7 +19,7 @@ feature_row2:
     excerpt: "A comprehensive vector basemap showing coverage of Great Britain from a national level, right down to street detail."
     url: "#test-link"
     btn_label: "GitHub"
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
 feature_row3:
   - image_path: /assets/images/VectorMap Local.PNG
     alt: "VM Local Image"
@@ -27,7 +27,7 @@ feature_row3:
     excerpt: "A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names."
     url: "#test-link"
     btn_label: "GitHub"
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
 feature_row4:
   - image_path: /assets/images/OSMM_Greenspace.jpg
     alt: "Greenspace Image"
