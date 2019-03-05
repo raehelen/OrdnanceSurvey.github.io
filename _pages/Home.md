@@ -27,7 +27,7 @@ feature_row3:
     excerpt: "A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names."
     url: "#test-link"
     btn_label: "GitHub"
-    btn_class: "btn--default"
+    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/OSMM_Greenspace.jpg
     alt: "Greenspace Image"
@@ -55,6 +55,7 @@ feature_row6:
 ---
 
 <select id="select-anchor" onChange="window.location.hash=this.value" class="Product">
+		<option value"">Select Product</option>
 		<option value="fr_1">OS MasterMap Topography</option>
 	 	<option value="fr_3">OS VectorMap Local</option>
 		<option value="fr_2">OS Open Zoomstack</option>
