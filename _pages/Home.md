@@ -54,7 +54,6 @@ feature_row6:
     btn_class: "btn--primary"    
 ---
 
-<div style="overflow:auto" height="30px">
 <select id="select-anchor" onChange="window.location.hash=this.value" class="Product">
 		<option value="fr_1">OS MasterMap Topography</option>
 	 	<option value="fr_3">OS VectorMap Local</option>
@@ -63,7 +62,6 @@ feature_row6:
 	 	<option value="fr_5">OS MasterMap Highways Network</option>
 		<option value="fr_6">OS Maps API</option>
 </select>
-</div>
 	
 
 	
