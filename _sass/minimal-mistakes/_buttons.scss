@@ -29,6 +29,14 @@
   .icon + .hidden {
     margin-left: -0.5em; /* override for hidden text*/
   }
+   
+ /* Social Buttons */
+   
+   .btn--linkedin {
+    background-color: #007bb6;
+    color: #fff !important;
+    border-style: none;
+   }
 
   /* button colors */
   $buttoncolors:
