@@ -15,7 +15,7 @@ $indent-var: 1.3em !default;
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, "OS Gill", sans-serif !default;
+  "Helvetica Neue", Source Sans Pro "Lucida Grande", Arial, "OS Gill", sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 
@@ -30,7 +30,7 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: "OS Gill", sans-serif;
+$global-font-family: Source Sans Pro, sans-serif;
 $header-font-family: "OS Gill", sans-serif;
 $caption-font-family: "OS Gill", sans-serif;
 
