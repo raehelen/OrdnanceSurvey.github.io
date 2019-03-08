@@ -1,6 +1,6 @@
 ---
 title: "Tools"
-layout: single
+layout: splash
 permalink: /tools/
 author_profile: true
 
