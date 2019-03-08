@@ -1,7 +1,8 @@
 ---
 title: "Tools"
-layout: splash
+layout: single
 permalink: /tools/
+author_profile: true
 
 header:
   overlay_color: "#000"
