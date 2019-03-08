@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Repositories"
+    url: https://raehelen.github.io/test-page/
   - title: "Tools"
     url: https://raehelen.github.io/test-page/tools/
   - title: "About"
