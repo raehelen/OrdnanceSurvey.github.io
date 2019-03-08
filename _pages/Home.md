@@ -60,7 +60,7 @@ feature_row6:
 ---
 
 <select id="select-anchor" onChange="window.location.hash=this.value" class="Product">
-		<option value"">Select Product</option>
+		<option value="">Select Product</option>
 		<option value="fr_1">OS MasterMap Topography</option>
 	 	<option value="fr_3">OS VectorMap Local</option>
 		<option value="fr_2">OS Open Zoomstack</option>
