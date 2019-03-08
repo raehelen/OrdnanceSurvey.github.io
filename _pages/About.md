@@ -7,17 +7,10 @@ author-profile: true
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain."
 
 ---
 
-
-
-Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain
-
-In fifteen short years, we’ve changed from a centuries-old venerable mapping company into a big data powerhouse. Our location information is weaving itself into the very fabric of our everyday lives, right across Great Britain.
-<br>
-<br>
 
 # Why use GitHub?
 
