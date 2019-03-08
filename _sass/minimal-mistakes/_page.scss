@@ -217,9 +217,6 @@
    Social sharing
    ========================================================================== */
 
-.page__share {
-  margin-top: 2em;
-  padding-top: 1em;
 
   @include breakpoint(max-width $small) {
     .btn span {
@@ -233,7 +230,7 @@
       width: 1px;
     }
   }
-}
+
 
 .page__share-title {
   margin-bottom: 10px;
