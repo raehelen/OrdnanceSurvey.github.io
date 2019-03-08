@@ -35,7 +35,7 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-**Tools
+<h4>Tools</h4>
 
 <select id="select-anchor" onChange="window.location.hash=this.value">
 		<option value="">Select Tool</option>
