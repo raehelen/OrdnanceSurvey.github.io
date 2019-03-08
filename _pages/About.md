@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 layout: single
 author-profile: true
+
+header:
+  overlay_color: "#fff"
+  overlay_filter: "0.5"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+
 ---
 
 
