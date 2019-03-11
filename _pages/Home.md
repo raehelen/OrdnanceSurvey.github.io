@@ -1,5 +1,5 @@
 ---
-title: "GitHub Repositories"
+title: "Repositories"
 layout: single
 permalink: /
 author_profile: true
