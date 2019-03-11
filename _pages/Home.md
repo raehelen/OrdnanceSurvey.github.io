@@ -1,5 +1,5 @@
 ---
-title: "Products"
+title: "GitHub Repositories"
 layout: single
 permalink: /
 author_profile: true
@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "GitHub repositories containing code samples, stylesheets, demos and more for our major products.."
 
 feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
