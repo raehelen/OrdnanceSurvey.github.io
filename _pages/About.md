@@ -7,16 +7,18 @@ author-profile: true
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-excerpt: "Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain."
+excerpt: "Github provides a primary route for technical support and engagement with Ordnance Survey."
 
 ---
 
 
 # Why use GitHub?
 
-Github provides a primary route for technical support and engagement with OS, providing not only access to code, tools, documentation, etc. but also a route which you can use to feedback and collaborate with our technical teams. 
+Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain. 
 
-We will use this to improve the usability and discoverability of OS data.
+We will use Github to improve the usability and discoverability of OS data. Github provides not only access to code, tools, documentation, etc. but also a route which you can use to feedback and collaborate with our technical teams. 
+
+
 <br>
 <br>
 
