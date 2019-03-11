@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-excerpt: "GitHub repositories containing code samples, stylesheets, demos and more for our major products.."
+excerpt: "GitHub repositories containing code samples, stylesheets, demos and more for our major products."
 
 feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
