@@ -137,6 +137,7 @@
   &--overlay {
     position: relative;
     padding: 3em 0;
+    padding-bottom: 1em;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
