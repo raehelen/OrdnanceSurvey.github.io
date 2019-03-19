@@ -126,7 +126,7 @@ Forks can be used to either propose changes to our projects or to use our repos 
  <li>To the right of the branch menu, click <b>"New Pull Request"</b>.</li>
  <li>Use the <b>base</b> branch dropdown menu to select the branch you'd like to merge your changes into, then use the <b>compare</b> branch dropdown menu to choose the topic branch you made your changes in.</li>
  <li>Enter a title and description for your pull request.</li>
- <li>Click <b>"Create Pull Request".</li>
+   <li>Click <b>"Create Pull Request"</b>.</li>
  <li>Wait for your pull request to be reviewd, if accepted, your changes will be merged into the original repository.</li>
 </ol>
 
