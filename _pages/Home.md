@@ -10,7 +10,7 @@ header:
 excerpt: "GitHub repositories containing code samples, stylesheets, demos and more for our major products."
 
 feature_row:
-  - image_path: /assets/images/OSMM_Topography_Layer.jpg
+  - image_path: /assets/images/OS-MasterMap-Topography.png
     alt: "Topography Image"
     title: "OS MasterMap Topography"
     excerpt: "Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more."
@@ -26,7 +26,7 @@ feature_row2:
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/VectorMap Local.PNG
+  - image_path: /assets/images/OS-VectorMap-Local.png
     alt: "VM Local Image"
     title: "OS VectorMap Local"
     excerpt: "A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names."
