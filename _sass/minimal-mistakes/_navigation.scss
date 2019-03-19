@@ -186,7 +186,8 @@
     text-decoration: none;
 
     &:hover {
-      color: #D40058;
+      color: #453c90;
+      font-weight: 600;
     }
 
     &.site-title {
@@ -234,8 +235,8 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: $primary-color;
+        height: 3px;
+        background: #453c90;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
