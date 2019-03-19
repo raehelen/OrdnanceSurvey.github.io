@@ -18,7 +18,6 @@ Our aim is to provide mapping that informs, guides and inspires. Our vision is t
 
 Therefore we will use Github as a knowledge share tool to improve the usability and discoverability of OS data. Github provides not only access to code, tools, documentation, etc. but also a route which you can use to feedback and collaborate with our technical teams. 
 
-
 <br>
 <br>
 
