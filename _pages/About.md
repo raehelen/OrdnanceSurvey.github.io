@@ -12,7 +12,7 @@ excerpt: "Github provides a primary route for technical support and engagement w
 ---
 
 
-# Why use GitHub?
+## Why use GitHub?
 
 Our aim is to provide mapping that informs, guides and inspires. Our vision is to reveal our ever-changing landscape in extraordinary detail, giving the most comprehensive view of Britain. 
 
@@ -22,11 +22,12 @@ Therefore we will use Github as a knowledge share tool to improve the usability 
 <br>
 <br>
 
-# What will I find on this GitHub page?
+## What will I find on this GitHub page?
 
 Our Github page is designed to allow you to easily navigate to our product repositories and associated tools, schema's, stylesheets etc.
 <br>
 <br>
+
 <details>
  <summary><b>How can we find OS product repositories?</b></summary>
 <br>
@@ -52,11 +53,12 @@ If you have a general enquiry around an OS product please head to the <a href="h
 <br>
 <br>
 
-# How do I contribute?
+## How do I contribute?
 
 Our Technical experts, including those who author the resource on Github, are engaged with Github and can respond to you directly.
 <br>
 <br>
+
 <details>
  <summary><b>How do I raise an issue?</b></summary>
 <br>
@@ -85,9 +87,9 @@ Forks can be used to either propose changes to our projects or to use our repos 
 <br>
 <br>
  <ol>
- <li>On GitHub, navigate to the top right of the repository page.</li>
- <li>Click <b>Fork</b>.</li>
- <li>You will see a fork of the original repository in your GitHub</li>
+   <li>On GitHub, navigate to the top right of the repository page.</li>
+   <li>Click <b>Fork</b>.</li>
+   <li>You will see a fork of the original repository in your GitHub</li>
 </ol>
   
  <br>
@@ -95,13 +97,14 @@ Forks can be used to either propose changes to our projects or to use our repos 
 </details>
 <br>
 <br>
+
 <details>
  <summary><b>How do I download or clone a repository?</b></summary>
 <br>
  <ol>
- <li>On GitHub, navigate below the repository name.</li>
- <li>Click <b>Download</b>to download a zip file.</li>
- <li>Or in the <b>Clone</b> with HTTPs section, click to copy the clone URL for the repostory.</li>
+   <li>On GitHub, navigate below the repository name.</li>
+   <li>Click <b>Download</b>to download a zip file.</li>
+   <li>Or in the <b>Clone</b> with HTTPs section, click to copy the clone URL for the repostory.</li>
 </ol>
  When you clone a repository, it creates a local copy on your computer and can be synced between two locations using Git. 
  <br>
@@ -116,18 +119,19 @@ Forks can be used to either propose changes to our projects or to use our repos 
   </details>
 <br>
 <br>
+
 <details>
  <summary><b>How do I create a pull request?</b></summary>
 <br>
- <ol>
- <li>On GitHub, navigate to the main apge of the repository.</li>
- <li>In the <b>"Branch"</b> menu, choose the branch that contains your commits.</li>
- <li>To the right of the branch menu, click <b>"New Pull Request"</b>.</li>
- <li>Use the <b>base</b> branch dropdown menu to select the branch you'd like to merge your changes into, then use the <b>compare</b> branch dropdown menu to choose the topic branch you made your changes in.</li>
- <li>Enter a title and description for your pull request.</li>
-   <li>Click <b>"Create Pull Request"</b>.</li>
- <li>Wait for your pull request to be reviewd, if accepted, your changes will be merged into the original repository.</li>
-</ol>
+  <ol>
+    <li>On GitHub, navigate to the main apge of the repository.</li>
+    <li>In the <b>"Branch"</b> menu, choose the branch that contains your commits.</li>
+    <li>To the right of the branch menu, click <b>"New Pull Request"</b>.</li>
+    <li>Use the <b>base</b> branch dropdown menu to select the branch you'd like to merge your changes into, then use the <b>compare</b>         branch dropdown menu to choose the topic branch you made your changes in.</li>
+    <li>Enter a title and description for your pull request.</li>
+    <li>Click <b>"Create Pull Request"</b>.</li>
+    <li>Wait for your pull request to be reviewd, if accepted, your changes will be merged into the original repository.</li>
+   </ol>
 
  <br>
  For further guidance on pull requests, please refer to this <a href="https://help.github.com/en/articles/creating-a-pull-request">GitHub Help page</a>
