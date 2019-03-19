@@ -58,7 +58,7 @@ Our Technical experts, including those who author the resource on Github, are en
 <br>
 
 <details>
- <summary><b>How do I raise an issue?</b></summary>
+ <summary>How do I raise an issue?</summary>
 <br>
 If you have an idea or a bug within a specific repository please raise an issue directly and we aim to repond as quickly as possible.
 <br>
