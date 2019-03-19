@@ -104,7 +104,7 @@ Forks can be used to either propose changes to our projects or to use our repos 
  <li>Click <b>Download</b>to download a zip file.</li>
  <li>Or in the <b>Clone</b> with HTTPs section, click to copy the clone URL for the repostory.</li>
 </ol>
- When you clone a repository, it creates a local copy on your computer and can be synced between the two locations using Git. 
+ When you clone a repository, it creates a local copy on your computer and can be synced between two locations using Git. 
  <br>
  <br>
  When you download a repository, you are downloading all the source files without any of the files in the .git folder.  
