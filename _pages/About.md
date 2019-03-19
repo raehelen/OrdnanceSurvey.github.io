@@ -27,7 +27,7 @@ Our Github page is designed to allow you to easily navigate to our product repos
 <br>
 
 <details>
- <summary><b>How can we find OS product repositories?</b></summary>
+ <summary>How can we find OS product repositories?</summary>
 <br>
 The <a href="https://raehelen.github.io/test-page/">Repositories</a> page provides quick access to a GitHub repository for each of the main OS Data Products.
 <br>
@@ -44,7 +44,7 @@ All repositories and folders contain README.files with information to further gu
 <br>
 
 <details>
- <summary><b>What if I can't find the GitHub repository I am looking for?</b></summary>
+ <summary>What if I can't find the GitHub repository I am looking for?</summary>
 <br>
 If you have a general enquiry around an OS product please head to the <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html">list of OS products on our website</a> or use the social links provided to the left.
 </details>
@@ -79,7 +79,7 @@ For further guidance on creating an issue, please refer to this <a href="https:/
 <br>
 <br>
 <details>
- <summary><b>How do I fork a repo?</b></summary>
+ <summary>How do I fork a repo?</summary>
 <br>
 Forks can be used to either propose changes to our projects or to use our repos as a starting point for your own ideas.
 <br>
@@ -97,7 +97,7 @@ Forks can be used to either propose changes to our projects or to use our repos 
 <br>
 
 <details>
- <summary><b>How do I download or clone a repository?</b></summary>
+ <summary>How do I download or clone a repository?</summary>
 <br>
  <ol>
    <li>On GitHub, navigate below the repository name.</li>
@@ -119,7 +119,7 @@ Forks can be used to either propose changes to our projects or to use our repos 
 <br>
 
 <details>
- <summary><b>How do I create a pull request?</b></summary>
+ <summary>How do I create a pull request?</summary>
 <br>
   <ol>
     <li>On GitHub, navigate to the main apge of the repository.</li>
