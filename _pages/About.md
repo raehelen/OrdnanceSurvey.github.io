@@ -101,7 +101,7 @@ Forks can be used to either propose changes to our projects or to use our repos 
 <br>
  <ol>
    <li>On GitHub, navigate below the repository name.</li>
-   <li>Click <b>Download</b>to download a zip file.</li>
+   <li>Click <b>Download</b> to download a zip file.</li>
    <li>Or in the <b>Clone</b> with HTTPs section, click to copy the clone URL for the repostory.</li>
 </ol>
  When you clone a repository, it creates a local copy on your computer and can be synced between two locations using Git. 
