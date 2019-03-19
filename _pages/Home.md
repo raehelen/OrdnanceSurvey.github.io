@@ -18,7 +18,7 @@ feature_row:
     btn_label: "GitHub" 
     btn_class: "btn--primary" 
 feature_row2:
-  - image_path: /assets/images/zoomstack.PNG
+  - image_path: /assets/images/OS-Open-Zoomstack.png
     alt: "Zoomstack Image"
     title: "OS Open Zoomstack"
     excerpt: "A comprehensive vector basemap showing coverage of Great Britain from a national level, right down to street detail."
@@ -34,7 +34,7 @@ feature_row3:
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/OSMM_Greenspace.jpg
+  - image_path: /assets/images/OS-Open-Greenspace.png
     alt: "Greenspace Image"
     title: "OS Open Greenspace"
     excerpt: "Britain’s most comprehensive Open dataset of urban and rural greenspaces."
@@ -42,7 +42,7 @@ feature_row4:
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/highways.PNG
+  - image_path: /assets/images/OS-MasterMap-Highways-Network.png
     alt: "Highways Image"
     title: "OS MasterMap Highways Network"
     excerpt: "The next generation of road mapping with an authoritative single view of the whole road network."
@@ -50,7 +50,7 @@ feature_row5:
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/os-basemap-styles.gif
+  - image_path: /assets/images/OS-Maps-API.png
     alt: "OS Maps API"
     title: "OS Maps API"
     excerpt: "Working examples of how to use the OS Maps API, a RESTful API based on the OS datasets."
