@@ -25,9 +25,8 @@ Therefore we will use Github as a knowledge share tool to improve the usability 
 # What will I find on this GitHub page?
 
 Our Github page is designed to allow you to easily navigate to our product repositories and associated tools, schema's, stylesheets etc.
-
 <br>
-
+<br>
 <details>
  <summary><b>How can we find OS product repositories?</b></summary>
 <br>
@@ -50,7 +49,7 @@ All repositories and folders contain README.files with information to further gu
 <br>
 If you have a general enquiry around an OS product please head to the <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/finder.html">list of OS products on our website</a> or use the social links provided to the left.
 </details>
-
+<br>
 <br>
 
 # How do I contribute?
@@ -132,3 +131,6 @@ Forks can be used to either propose changes to our projects or to use our repos 
 
  <br>
  For further guidance on pull requests, please refer to this <a href="https://help.github.com/en/articles/creating-a-pull-request">GitHub Help page</a>
+
+<br>
+<br>
