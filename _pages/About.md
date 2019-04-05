@@ -122,7 +122,7 @@ Forks can be used to either propose changes to our projects or to use our repos 
  <summary>How do I create a pull request?</summary>
 <br>
   <ol>
-    <li>On GitHub, navigate to the main apge of the repository.</li>
+    <li>On GitHub, navigate to the main page of the repository.</li>
     <li>In the <b>"Branch"</b> menu, choose the branch that contains your commits.</li>
     <li>To the right of the branch menu, click <b>"New Pull Request"</b>.</li>
     <li>Use the <b>base</b> branch dropdown menu to select the branch you'd like to merge your changes into, then use the <b>compare</b>         branch dropdown menu to choose the topic branch you made your changes in.</li>
