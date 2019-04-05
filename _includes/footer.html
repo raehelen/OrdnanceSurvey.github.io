@@ -15,9 +15,6 @@
     {% if site.author.blog %}
       <li><a href="https://www.ordnancesurvey.co.uk/blog/"><i class="fas fs-fw fa-external-link-alt" aria-hidden="true"></i> OS Blog</a></li>
     {% endif %}
-    {% if site.author.geogithub %}
-      <li><a href="https://geovation.github.io/"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Geovation Blog</a></li>
-    {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
