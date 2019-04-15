@@ -18,14 +18,13 @@ select {
   -webkit-appearance: none;
   cursor: pointer;
   color: #3C434A;
-  border-color: #A6AFB7;
+  border-color: #757575;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1.1px;
   min-width: 300px;
   padding: 8px 16px;
-  border-radius: 3px;
   background: #FFFFFF url('https://i.imgur.com/hRbauFc.png') no-repeat scroll right center;
-}
-select:hover, select:active {
-  border-color: #A6AFB7;
 }
 
  /* Social Buttons */
