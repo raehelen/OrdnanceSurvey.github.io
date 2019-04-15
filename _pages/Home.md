@@ -57,6 +57,22 @@ feature_row6:
     url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
     btn_label: "GitHub"
     btn_class: "btn--primary"    
+feature_row7:
+  - image_path: /assets/images/vectormap-district-hackney.jpg
+    alt: "OS VectorMap District"
+    title: "OS VectorMap District"
+    excerpt: "Show enough detail to give the lie of the land while avoiding overwhelming detail with this customisable map."
+    url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
+    btn_label: "GitHub"
+    btn_class: "btn--primary"    
+feature_row8:
+  - image_path: /assets/images/terrain-50-place3.jpg
+    alt: "OS Terrain 50"
+    title: "OS Terrain 50"
+    excerpt: "Visualise simple landscapes in 3D and bring your geographic analysis to life."
+    url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
+    btn_label: "GitHub"
+    btn_class: "btn--primary"    
 ---
 
 <select id="select-anchor" onChange="window.location.hash=this.value" class="Product">
@@ -67,6 +83,8 @@ feature_row6:
 		<option value="fr_4">OS Open Greenspace</option>
 	 	<option value="fr_5">OS MasterMap Highways Network</option>
 		<option value="fr_6">OS Maps API</option>
+		<option value="fr_7">OS VectorMap District</option>
+		<option value="fr_8">OS Terrain 50</option>
 </select>
 	
 
@@ -77,3 +95,5 @@ feature_row6:
 <div id="fr_4"></div>{% include feature_row id="feature_row4" type="left" %}
 <div id="fr_5"></div>{% include feature_row id="feature_row5" type="left" %}
 <div id="fr_6"></div>{% include feature_row id="feature_row6" type="left" %}
+<div id="fr_7"></div>{% include feature_row id="feature_row7" type="left" %}
+<div id="fr_8"></div>{% include feature_row id="feature_row8" type="left" %}
