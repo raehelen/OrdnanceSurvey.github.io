@@ -62,7 +62,7 @@ feature_row7:
     alt: "OS VectorMap District"
     title: "OS VectorMap District"
     excerpt: "Show enough detail to give the lie of the land while avoiding overwhelming detail with this customisable map."
-    url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
+    url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"    
 feature_row8:
@@ -70,7 +70,7 @@ feature_row8:
     alt: "OS Terrain 50"
     title: "OS Terrain 50"
     excerpt: "Visualise simple landscapes in 3D and bring your geographic analysis to life."
-    url: "https://github.com/OrdnanceSurvey/OS-Maps-API"
+    url: "#test-link"
     btn_label: "GitHub"
     btn_class: "btn--primary"    
 ---
