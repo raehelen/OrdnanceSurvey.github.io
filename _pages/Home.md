@@ -22,7 +22,7 @@ feature_row2:
     alt: "Zoomstack Image"
     title: "OS Open Zoomstack"
     excerpt: "A comprehensive vector basemap showing coverage of Great Britain from a national level, right down to street detail."
-    url: "#test-link"
+    url: "https://github.com/OrdnanceSurvey/OS-Open-Zoomstack"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row3:
@@ -30,7 +30,7 @@ feature_row3:
     alt: "VM Local Image"
     title: "OS VectorMap Local"
     excerpt: "A highly-detailed, customisable street-level map - showing fences, building outlines, paths and street names."
-    url: "#test-link"
+    url: "https://github.com/OrdnanceSurvey/OS-VectorMap-Local"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row4:
@@ -38,7 +38,7 @@ feature_row4:
     alt: "Greenspace Image"
     title: "OS Open Greenspace"
     excerpt: "Britain’s most comprehensive Open dataset of urban and rural greenspaces."
-    url: "#test-link"
+    url: "https://github.com/OrdnanceSurvey/OS-Open-Greenspace"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row5:
@@ -46,7 +46,7 @@ feature_row5:
     alt: "Highways Image"
     title: "OS MasterMap Highways Network"
     excerpt: "The next generation of road mapping with an authoritative single view of the whole road network."
-    url: "#test-link"
+    url: "https://github.com/OrdnanceSurvey/OS-MasterMap-Highways-Network"
     btn_label: "GitHub"
     btn_class: "btn--primary"
 feature_row6:
@@ -62,7 +62,7 @@ feature_row7:
     alt: "OS VectorMap District"
     title: "OS VectorMap District"
     excerpt: "Show enough detail to give the lie of the land while avoiding overwhelming detail with this customisable map."
-    url: "#test-link"
+    url: "https://github.com/OrdnanceSurvey/OS-VectorMap-District"
     btn_label: "GitHub"
     btn_class: "btn--primary"    
 feature_row8:
@@ -70,7 +70,7 @@ feature_row8:
     alt: "OS Terrain 50"
     title: "OS Terrain 50"
     excerpt: "Visualise simple landscapes in 3D and bring your geographic analysis to life."
-    url: "#test-link"
+    url: "https://github.com/OrdnanceSurvey/OS-Terrain-50"
     btn_label: "GitHub"
     btn_class: "btn--primary"    
 ---
